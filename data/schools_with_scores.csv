@@ -1,0 +1,136 @@
+name,total_students,econ_disadv,score_achievement,score_growth,score_absenteeism,score_grad,score_ready_grad,score_elpa,pct_econ_disadv
+A. Z. Kelley Elementary,852,261,2.0,2.0,4.0,,,3.0,0.30633802816901406
+Alex Green Elementary,234,153,2.0,2.0,4.0,,,2.0,0.6538461538461539
+Amqui Elementary,458,246,2.0,4.0,4.0,,,4.0,0.537117903930131
+Andrew Jackson Elementary,496,122,3.0,4.0,4.0,,,2.0,0.24596774193548387
+Antioch High School,1915,622,1.0,0.0,4.0,2.0,3.0,0.0,0.3248041775456919
+Antioch Middle,820,391,1.0,2.0,4.0,,,2.0,0.4768292682926829
+Apollo Middle,835,340,0.0,0.0,2.0,,,1.0,0.40718562874251496
+Bellevue Middle,631,211,2.0,0.0,2.0,,,1.0,0.33438985736925514
+Bellshire Elementary,342,232,2.0,3.0,2.0,,,3.0,0.6783625730994152
+Buena Vista Elementary,199,174,2.0,2.0,4.0,,,,0.8743718592964824
+Cane Ridge Elementary,609,265,3.0,4.0,4.0,,,4.0,0.4351395730706076
+Cane Ridge High School,1858,635,1.0,0.0,3.0,2.0,2.0,0.0,0.3417653390742734
+Carter-Lawrence Elementary,263,159,2.0,2.0,4.0,,,1.0,0.6045627376425855
+Chadwell Elementary,323,185,2.0,2.0,4.0,,,3.0,0.5727554179566563
+Charlotte Park Elementary,513,214,2.0,2.0,2.0,,,4.0,0.4171539961013645
+Cockrill Elementary,319,196,1.0,3.0,4.0,,,1.0,0.6144200626959248
+Cole Elementary,761,332,2.0,2.0,4.0,,,4.0,0.43626806833114323
+Cora Howe School,92,46,1.0,2.0,2.0,,,,0.5
+Crieve Hall Elementary,465,68,4.0,3.0,4.0,,,4.0,0.14623655913978495
+Croft Middle,750,262,1.0,0.0,1.0,,,1.0,0.34933333333333333
+Cumberland Elementary,278,212,1.0,4.0,4.0,,,,0.762589928057554
+Dan Mills Elementary,566,105,4.0,4.0,3.0,,,3.0,0.1855123674911661
+Dodson Elementary,393,219,1.0,2.0,4.0,,,3.0,0.5572519083969466
+Donelson Middle,775,369,1.0,4.0,3.0,,,1.0,0.4761290322580645
+Eakin Elementary,543,92,4.0,4.0,4.0,,,4.0,0.1694290976058932
+East End Preparatory School,899,413,3.0,0.0,4.0,,,3.0,0.4593993325917686
+East Nashville Middle,316,178,1.0,0.0,1.0,,,,0.5632911392405063
+Explore Community School,430,201,,,1.0,,,,0.46744186046511627
+Fall-Hamilton Elementary,312,170,1.0,0.0,4.0,,,2.0,0.5448717948717948
+Gateway Elementary,202,109,2.0,4.0,2.0,,,4.0,0.5396039603960396
+Glencliff Elementary,597,200,1.0,4.0,4.0,,,2.0,0.33500837520938026
+Glencliff High School,1167,439,1.0,0.0,3.0,2.0,3.0,1.0,0.37617823479005996
+Glendale Elementary,442,11,4.0,4.0,4.0,,,,0.024886877828054297
+Glengarry Elementary,407,191,2.0,3.0,4.0,,,3.0,0.4692874692874693
+Glenview Elementary,636,281,2.0,3.0,2.0,,,4.0,0.4418238993710692
+Goodlettsville Elementary,354,135,2.0,2.0,4.0,,,3.0,0.3813559322033898
+Goodlettsville Middle,598,271,1.0,0.0,3.0,,,4.0,0.4531772575250836
+Gower Elementary,608,160,3.0,4.0,2.0,,,3.0,0.2631578947368421
+Gra-Mar Middle,344,222,1.0,2.0,4.0,,,1.0,0.6453488372093024
+Granbery Elementary,751,137,4.0,4.0,3.0,,,3.0,0.18242343541944075
+Harpeth Valley Elementary,700,66,4.0,3.0,4.0,,,4.0,0.09428571428571429
+Hattie Cotton Elementary,239,136,2.0,3.0,2.0,,,4.0,0.5690376569037657
+Haynes Middle,220,164,1.0,2.0,2.0,,,,0.7454545454545455
+Haywood Elementary,624,273,1.0,2.0,3.0,,,3.0,0.4375
+Head Middle,551,124,4.0,2.0,4.0,,,,0.2250453720508167
+Hermitage Elementary,299,115,2.0,3.0,2.0,,,3.0,0.38461538461538464
+Hickman Elementary,473,220,1.0,0.0,4.0,,,4.0,0.46511627906976744
+Hillsboro High,1167,313,2.0,0.0,4.0,4.0,4.0,1.0,0.26820908311910885
+Hillwood High,1091,358,1.0,0.0,3.0,4.0,4.0,1.0,0.3281393217231897
+Hull-Jackson Elementary,430,197,1.0,0.0,1.0,,,,0.45813953488372094
+Hunters Lane High,1333,582,1.0,0.0,3.0,4.0,3.0,0.0,0.436609152288072
+Ida B. Wells Elementary,263,216,1.0,1.0,4.0,,,3.0,0.8212927756653993
+Inglewood Elementary,229,144,2.0,0.0,2.0,,,,0.62882096069869
+Isaac Litton Middle,469,140,2.0,1.0,3.0,,,0.0,0.29850746268656714
+Jere Baxter Middle,261,182,1.0,0.0,4.0,,,1.0,0.6973180076628352
+Joelton Elementary,262,112,3.0,0.0,3.0,,,,0.42748091603053434
+Joelton Middle,297,214,1.0,1.0,2.0,,,,0.7205387205387206
+John B. Whitsitt Elementary,450,211,2.0,4.0,3.0,,,4.0,0.4688888888888889
+John Early Middle,302,230,1.0,1.0,4.0,,,,0.7615894039735099
+John F. Kennedy Middle,842,316,1.0,0.0,4.0,,,0.0,0.3752969121140142
+John Overton High,2070,700,2.0,0.0,4.0,2.0,3.0,1.0,0.33816425120772947
+John Trotwood Moore Middle,753,162,4.0,0.0,2.0,,,4.0,0.2151394422310757
+Jones Elementary,206,105,0.0,0.0,4.0,,,,0.5097087378640777
+Julia Green Elementary,446,13,4.0,0.0,4.0,,,,0.02914798206278027
+KIPP Academy Nashville,377,213,3.0,4.0,4.0,,,1.0,0.5649867374005305
+KIPP Nashville College Prep,356,177,3.0,4.0,4.0,,,1.0,0.49719101123595505
+KIPP Nashville Collegiate High School,422,177,2.0,0.0,4.0,,,4.0,0.4194312796208531
+Knowledge Academies High School,142,36,1.0,0.0,0.0,,,1.0,0.2535211267605634
+Knowledge Academy,148,43,1.0,3.0,3.0,,,1.0,0.2905405405405405
+Lakeview Elementary,557,244,3.0,4.0,2.0,,,4.0,0.4380610412926391
+Liberty Collegiate Academy,418,181,3.0,4.0,1.0,,,3.0,0.43301435406698563
+Lockeland Elementary,293,9,4.0,4.0,4.0,,,,0.030716723549488054
+Madison Middle,572,350,1.0,3.0,4.0,,,1.0,0.6118881118881119
+Maplewood High,761,465,1.0,0.0,1.0,2.0,2.0,0.0,0.6110381077529566
+Margaret Allen Middle,496,248,1.0,2.0,2.0,,,3.0,0.5
+Martin Luther King Jr School,1268,129,4.0,4.0,4.0,4.0,4.0,,0.10173501577287067
+May Werthan Shayne Elementary School,774,183,4.0,2.0,4.0,,,4.0,0.2364341085271318
+McGavock Elementary,282,132,2.0,2.0,4.0,,,4.0,0.46808510638297873
+McGavock High,2248,810,1.0,0.0,4.0,3.0,4.0,0.0,0.3603202846975089
+McMurray Middle,804,386,1.0,4.0,4.0,,,2.0,0.48009950248756217
+Meigs Middle,690,58,4.0,3.0,4.0,,,,0.08405797101449275
+Middle College High,175,34,4.0,3.0,4.0,4.0,4.0,,0.19428571428571428
+Moses McKissack Middle,304,245,1.0,0.0,4.0,,,1.0,0.805921052631579
+Mt. View Elementary,704,250,2.0,2.0,3.0,,,3.0,0.35511363636363635
+Napier Elementary,297,267,3.0,4.0,4.0,,,,0.898989898989899
+Nashville Academy of Computer Science,217,124,3.0,4.0,0.0,,,2.0,0.5714285714285714
+Nashville Big Picture High School,146,43,3.0,2.0,4.0,,,,0.2945205479452055
+Nashville Classical,440,149,4.0,2.0,4.0,,,,0.3386363636363636
+Nashville Prep,284,153,2.0,4.0,1.0,,,1.0,0.5387323943661971
+Nashville School Of The Arts,563,81,3.0,3.0,2.0,3.0,4.0,,0.1438721136767318
+Norman Binkley Elementary,632,281,3.0,4.0,2.0,,,4.0,0.44462025316455694
+Old Center Elementary,359,174,2.0,3.0,4.0,,,3.0,0.48467966573816157
+Paragon Mills Elementary,614,318,1.0,4.0,4.0,,,3.0,0.5179153094462541
+Park Avenue Elementary,358,262,2.0,4.0,3.0,,,,0.7318435754189944
+Pearl-Cohn High,605,430,1.0,0.0,2.0,2.0,2.0,,0.7107438016528925
+Pennington Elementary,294,83,4.0,4.0,2.0,,,1.0,0.282312925170068
+Percy Priest Elementary,502,7,4.0,3.0,4.0,,,,0.013944223107569721
+Purpose Prep,366,152,4.0,1.0,4.0,,,,0.41530054644808745
+RePublic High School,610,229,0.0,0.0,0.0,,,2.0,0.37540983606557377
+Robert Churchwell Elementary,285,242,3.0,4.0,2.0,,,,0.8491228070175438
+Robert E. Lillard Elementary,237,174,2.0,2.0,4.0,,,,0.7341772151898734
+Rocketship Nashville Northeast Elementary,479,358,4.0,4.0,1.0,,,3.0,0.7473903966597077
+Rocketship United,546,261,3.0,2.0,1.0,,,3.0,0.47802197802197804
+Rose Park Middle,442,95,3.0,0.0,4.0,,,,0.2149321266968326
+Rosebank Elementary,314,152,2.0,2.0,4.0,,,,0.4840764331210191
+Ruby Major Elementary,473,173,3.0,4.0,2.0,,,3.0,0.3657505285412262
+Shwab Elementary,340,169,3.0,4.0,4.0,,,3.0,0.4970588235294118
+Smith Springs Elementary School,662,242,3.0,4.0,4.0,,,3.0,0.36555891238670696
+Smithson Craighead Academy,204,105,2.0,4.0,2.0,,,3.0,0.5147058823529411
+Stanford Elementary,403,66,3.0,4.0,4.0,,,3.0,0.16377171215880892
+STEM Prep Academy,517,211,2.0,4.0,4.0,,,3.0,0.4081237911025145
+STEM Prep High School,489,166,1.0,3.0,3.0,,,1.0,0.3394683026584867
+Stratford STEM Magnet School,960,598,1.0,0.0,4.0,4.0,2.0,1.0,0.6229166666666667
+Stratton Elementary,504,280,0.0,4.0,0.0,,,3.0,0.5555555555555556
+Strive Collegiate Academy,379,118,0.0,0.0,2.0,,,1.0,0.3113456464379947
+Sylvan Park Elementary,425,65,4.0,4.0,4.0,,,,0.15294117647058825
+The Academy at Hickory Hollow,50,22,,,,1.0,1.0,0.0,0.44
+The Academy at Old Cockrill,83,47,,4.0,0.0,2.0,3.0,,0.5662650602409639
+The Academy at Opry Mills,57,22,,,1.0,0.0,2.0,,0.38596491228070173
+The Cohn Learning Center,53,41,0.0,0.0,1.0,1.0,,,0.7735849056603774
+Thomas A. Edison Elementary,805,327,2.0,4.0,4.0,,,3.0,0.4062111801242236
+Thurgood Marshall Middle,967,382,1.0,2.0,4.0,,,2.0,0.39503619441571874
+Tom Joy Elementary,371,265,1.0,4.0,4.0,,,2.0,0.7142857142857143
+Tulip Grove Elementary,553,224,2.0,3.0,4.0,,,4.0,0.4050632911392405
+Tusculum Elementary,773,388,2.0,4.0,4.0,,,4.0,0.5019404915912031
+Two Rivers Middle,410,202,1.0,0.0,2.0,,,2.0,0.4926829268292683
+Una Elementary,727,280,1.0,2.0,2.0,,,4.0,0.38514442916093533
+Valor Flagship Academy,943,252,4.0,4.0,4.0,,,4.0,0.2672322375397667
+Valor Voyager Academy,497,145,4.0,4.0,4.0,,,3.0,0.2917505030181087
+Warner Elementary,214,181,2.0,4.0,4.0,,,4.0,0.8457943925233645
+Waverly-Belmont Elementary School,494,107,4.0,2.0,4.0,,,,0.2165991902834008
+West End Middle,503,112,3.0,0.0,2.0,,,,0.22266401590457258
+Westmeade Elementary,422,132,3.0,4.0,4.0,,,3.0,0.3127962085308057
+William Henry Oliver Middle,985,252,2.0,0.0,4.0,,,2.0,0.25583756345177666
+Wright Middle,810,400,1.0,1.0,4.0,,,0.0,0.49382716049382713
