@@ -1,0 +1,386 @@
+Year,CountyName,Category,Count,LastReportedDate,
+2017,Anderson,Aggravated Assault,124,2019-03-19
+2017,Anderson,Simple Assault,478,2019-03-19
+2017,Anderson,Intimidation,24,2019-03-19
+2017,Anderson,Stalking,3,2019-03-19
+2017,Bedford,Aggravated Assault,108,2019-03-19
+2017,Bedford,Simple Assault,517,2019-03-19
+2017,Bedford,Intimidation,67,2019-03-19
+2017,Bedford,Stalking,8,2019-03-19
+2017,Benton,Aggravated Assault,20,2019-03-19
+2017,Benton,Simple Assault,43,2019-03-19
+2017,Benton,Intimidation,1,2019-03-19
+2017,Benton,Stalking,1,2019-03-19
+2017,Bledsoe,Aggravated Assault,1,2019-03-19
+2017,Bledsoe,Simple Assault,8,2019-03-19
+2017,Bledsoe,Intimidation,1,2019-03-19
+2017,Bledsoe,Stalking,0,2019-03-19
+2017,Blount,Aggravated Assault,230,2019-03-19
+2017,Blount,Simple Assault,800,2019-03-19
+2017,Blount,Intimidation,46,2019-03-19
+2017,Blount,Stalking,0,2019-03-19
+2017,Bradley,Aggravated Assault,243,2019-03-19
+2017,Bradley,Simple Assault,818,2019-03-19
+2017,Bradley,Intimidation,116,2019-03-19
+2017,Bradley,Stalking,4,2019-03-19
+2017,Campbell,Aggravated Assault,43,2019-03-19
+2017,Campbell,Simple Assault,186,2019-03-19
+2017,Campbell,Intimidation,44,2019-03-19
+2017,Campbell,Stalking,5,2019-03-19
+2017,Cannon,Aggravated Assault,16,2019-03-19
+2017,Cannon,Simple Assault,29,2019-03-19
+2017,Cannon,Intimidation,4,2019-03-19
+2017,Cannon,Stalking,0,2019-03-19
+2017,Carroll,Aggravated Assault,35,2019-03-19
+2017,Carroll,Simple Assault,120,2019-03-19
+2017,Carroll,Intimidation,4,2019-03-19
+2017,Carroll,Stalking,0,2019-03-19
+2017,Carter,Aggravated Assault,33,2019-03-19
+2017,Carter,Simple Assault,149,2019-03-19
+2017,Carter,Intimidation,45,2019-03-19
+2017,Carter,Stalking,0,2019-03-19
+2017,Cheatham,Aggravated Assault,41,2019-03-19
+2017,Cheatham,Simple Assault,179,2019-03-19
+2017,Cheatham,Intimidation,31,2019-03-19
+2017,Cheatham,Stalking,1,2019-03-19
+2017,Chester,Aggravated Assault,22,2019-03-19
+2017,Chester,Simple Assault,82,2019-03-19
+2017,Chester,Intimidation,16,2019-03-19
+2017,Chester,Stalking,0,2019-03-19
+2017,Claiborne,Aggravated Assault,28,2019-03-19
+2017,Claiborne,Simple Assault,115,2019-03-19
+2017,Claiborne,Intimidation,2,2019-03-19
+2017,Claiborne,Stalking,0,2019-03-19
+2017,Clay,Aggravated Assault,8,2019-03-19
+2017,Clay,Simple Assault,40,2019-03-19
+2017,Clay,Intimidation,4,2019-03-19
+2017,Clay,Stalking,1,2019-03-19
+2017,Cocke,Aggravated Assault,113,2019-03-19
+2017,Cocke,Simple Assault,205,2019-03-19
+2017,Cocke,Intimidation,69,2019-03-19
+2017,Cocke,Stalking,6,2019-03-19
+2017,Coffee,Aggravated Assault,126,2019-03-19
+2017,Coffee,Simple Assault,401,2019-03-19
+2017,Coffee,Intimidation,72,2019-03-19
+2017,Coffee,Stalking,3,2019-03-19
+2017,Crockett,Aggravated Assault,10,2019-03-19
+2017,Crockett,Simple Assault,99,2019-03-19
+2017,Crockett,Intimidation,12,2019-03-19
+2017,Crockett,Stalking,0,2019-03-19
+2017,Cumberland,Aggravated Assault,47,2019-03-19
+2017,Cumberland,Simple Assault,176,2019-03-19
+2017,Cumberland,Intimidation,5,2019-03-19
+2017,Cumberland,Stalking,0,2019-03-19
+2017,Davidson,Aggravated Assault,1473,2019-03-19
+2017,Davidson,Simple Assault,6915,2019-03-19
+2017,Davidson,Intimidation,1357,2019-03-19
+2017,Davidson,Stalking,82,2019-03-19
+2017,Decatur,Aggravated Assault,12,2019-03-19
+2017,Decatur,Simple Assault,63,2019-03-19
+2017,Decatur,Intimidation,6,2019-03-19
+2017,Decatur,Stalking,1,2019-03-19
+2017,DeKalb,Aggravated Assault,16,2019-03-19
+2017,DeKalb,Simple Assault,78,2019-03-19
+2017,DeKalb,Intimidation,7,2019-03-19
+2017,DeKalb,Stalking,1,2019-03-19
+2017,Dickson,Aggravated Assault,113,2019-03-19
+2017,Dickson,Simple Assault,351,2019-03-19
+2017,Dickson,Intimidation,112,2019-03-19
+2017,Dickson,Stalking,4,2019-03-19
+2017,Dyer,Aggravated Assault,61,2019-03-19
+2017,Dyer,Simple Assault,325,2019-03-19
+2017,Dyer,Intimidation,21,2019-03-19
+2017,Dyer,Stalking,1,2019-03-19
+2017,Fayette,Aggravated Assault,35,2019-03-19
+2017,Fayette,Simple Assault,114,2019-03-19
+2017,Fayette,Intimidation,12,2019-03-19
+2017,Fayette,Stalking,0,2019-03-19
+2017,Fentress,Aggravated Assault,13,2019-03-19
+2017,Fentress,Simple Assault,49,2019-03-19
+2017,Fentress,Intimidation,2,2019-03-19
+2017,Fentress,Stalking,0,2019-03-19
+2017,Franklin,Aggravated Assault,100,2019-03-19
+2017,Franklin,Simple Assault,201,2019-03-19
+2017,Franklin,Intimidation,37,2019-03-19
+2017,Franklin,Stalking,2,2019-03-19
+2017,Gibson,Aggravated Assault,75,2019-03-19
+2017,Gibson,Simple Assault,294,2019-03-19
+2017,Gibson,Intimidation,54,2019-03-19
+2017,Gibson,Stalking,8,2019-03-19
+2017,Giles,Aggravated Assault,49,2019-03-19
+2017,Giles,Simple Assault,209,2019-03-19
+2017,Giles,Intimidation,5,2019-03-19
+2017,Giles,Stalking,0,2019-03-19
+2017,Grainger,Aggravated Assault,9,2019-03-19
+2017,Grainger,Simple Assault,71,2019-03-19
+2017,Grainger,Intimidation,3,2019-03-19
+2017,Grainger,Stalking,0,2019-03-19
+2017,Greene,Aggravated Assault,98,2019-03-19
+2017,Greene,Simple Assault,407,2019-03-19
+2017,Greene,Intimidation,91,2019-03-19
+2017,Greene,Stalking,3,2019-03-19
+2017,Grundy,Aggravated Assault,53,2019-03-19
+2017,Grundy,Simple Assault,112,2019-03-19
+2017,Grundy,Intimidation,11,2019-03-19
+2017,Grundy,Stalking,1,2019-03-19
+2017,Hamblen,Aggravated Assault,117,2019-03-19
+2017,Hamblen,Simple Assault,543,2019-03-19
+2017,Hamblen,Intimidation,136,2019-03-19
+2017,Hamblen,Stalking,4,2019-03-19
+2017,Hamilton,Aggravated Assault,694,2019-03-19
+2017,Hamilton,Simple Assault,2352,2019-03-19
+2017,Hamilton,Intimidation,62,2019-03-19
+2017,Hamilton,Stalking,34,2019-03-19
+2017,Hancock,Aggravated Assault,2,2019-03-19
+2017,Hancock,Simple Assault,6,2019-03-19
+2017,Hancock,Intimidation,0,2019-03-19
+2017,Hancock,Stalking,0,2019-03-19
+2017,Hardeman,Aggravated Assault,42,2019-03-19
+2017,Hardeman,Simple Assault,116,2019-03-19
+2017,Hardeman,Intimidation,19,2019-03-19
+2017,Hardeman,Stalking,3,2019-03-19
+2017,Hardin,Aggravated Assault,28,2019-03-19
+2017,Hardin,Simple Assault,199,2019-03-19
+2017,Hardin,Intimidation,21,2019-03-19
+2017,Hardin,Stalking,1,2019-03-19
+2017,Hawkins,Aggravated Assault,51,2019-03-19
+2017,Hawkins,Simple Assault,260,2019-03-19
+2017,Hawkins,Intimidation,7,2019-03-19
+2017,Hawkins,Stalking,2,2019-03-19
+2017,Haywood,Aggravated Assault,42,2019-03-19
+2017,Haywood,Simple Assault,214,2019-03-19
+2017,Haywood,Intimidation,29,2019-03-19
+2017,Haywood,Stalking,3,2019-03-19
+2017,Henderson,Aggravated Assault,62,2019-03-19
+2017,Henderson,Simple Assault,216,2019-03-19
+2017,Henderson,Intimidation,51,2019-03-19
+2017,Henderson,Stalking,5,2019-03-19
+2017,Henry,Aggravated Assault,41,2019-03-19
+2017,Henry,Simple Assault,135,2019-03-19
+2017,Henry,Intimidation,18,2019-03-19
+2017,Henry,Stalking,1,2019-03-19
+2017,Hickman,Aggravated Assault,54,2019-03-19
+2017,Hickman,Simple Assault,189,2019-03-19
+2017,Hickman,Intimidation,28,2019-03-19
+2017,Hickman,Stalking,5,2019-03-19
+2017,Houston,Aggravated Assault,5,2019-03-19
+2017,Houston,Simple Assault,33,2019-03-19
+2017,Houston,Intimidation,3,2019-03-19
+2017,Houston,Stalking,2,2019-03-19
+2017,Humphreys,Aggravated Assault,28,2019-03-19
+2017,Humphreys,Simple Assault,100,2019-03-19
+2017,Humphreys,Intimidation,4,2019-03-19
+2017,Humphreys,Stalking,0,2019-03-19
+2017,Jackson,Aggravated Assault,8,2019-03-19
+2017,Jackson,Simple Assault,37,2019-03-19
+2017,Jackson,Intimidation,2,2019-03-19
+2017,Jackson,Stalking,0,2019-03-19
+2017,Jefferson,Aggravated Assault,53,2019-03-19
+2017,Jefferson,Simple Assault,194,2019-03-19
+2017,Jefferson,Intimidation,26,2019-03-19
+2017,Jefferson,Stalking,2,2019-03-19
+2017,Johnson,Aggravated Assault,20,2019-03-19
+2017,Johnson,Simple Assault,81,2019-03-19
+2017,Johnson,Intimidation,12,2019-03-19
+2017,Johnson,Stalking,1,2019-03-19
+2017,Knox,Aggravated Assault,716,2019-03-19
+2017,Knox,Simple Assault,3129,2019-03-19
+2017,Knox,Intimidation,389,2019-03-19
+2017,Knox,Stalking,41,2019-03-19
+2017,Lake,Aggravated Assault,6,2019-03-19
+2017,Lake,Simple Assault,45,2019-03-19
+2017,Lake,Intimidation,0,2019-03-19
+2017,Lake,Stalking,1,2019-03-19
+2017,Lauderdale,Aggravated Assault,50,2019-03-19
+2017,Lauderdale,Simple Assault,139,2019-03-19
+2017,Lauderdale,Intimidation,22,2019-03-19
+2017,Lauderdale,Stalking,1,2019-03-19
+2017,Lawrence,Aggravated Assault,61,2019-03-19
+2017,Lawrence,Simple Assault,316,2019-03-19
+2017,Lawrence,Intimidation,78,2019-03-19
+2017,Lawrence,Stalking,18,2019-03-19
+2017,Lewis,Aggravated Assault,34,2019-03-19
+2017,Lewis,Simple Assault,42,2019-03-19
+2017,Lewis,Intimidation,8,2019-03-19
+2017,Lewis,Stalking,0,2019-03-19
+2017,Lincoln,Aggravated Assault,96,2019-03-19
+2017,Lincoln,Simple Assault,266,2019-03-19
+2017,Lincoln,Intimidation,71,2019-03-19
+2017,Lincoln,Stalking,0,2019-03-19
+2017,Loudon,Aggravated Assault,41,2019-03-19
+2017,Loudon,Simple Assault,234,2019-03-19
+2017,Loudon,Intimidation,62,2019-03-19
+2017,Loudon,Stalking,2,2019-03-19
+2017,Macon,Aggravated Assault,13,2019-03-19
+2017,Macon,Simple Assault,76,2019-03-19
+2017,Macon,Intimidation,6,2019-03-19
+2017,Macon,Stalking,1,2019-03-19
+2017,Madison,Aggravated Assault,229,2019-03-19
+2017,Madison,Simple Assault,1220,2019-03-19
+2017,Madison,Intimidation,182,2019-03-19
+2017,Madison,Stalking,18,2019-03-19
+2017,Marion,Aggravated Assault,27,2019-03-19
+2017,Marion,Simple Assault,122,2019-03-19
+2017,Marion,Intimidation,39,2019-03-19
+2017,Marion,Stalking,1,2019-03-19
+2017,Marshall,Aggravated Assault,46,2019-03-19
+2017,Marshall,Simple Assault,245,2019-03-19
+2017,Marshall,Intimidation,39,2019-03-19
+2017,Marshall,Stalking,1,2019-03-19
+2017,Maury,Aggravated Assault,167,2019-03-19
+2017,Maury,Simple Assault,1129,2019-03-19
+2017,Maury,Intimidation,91,2019-03-19
+2017,Maury,Stalking,13,2019-03-19
+2017,McMinn,Aggravated Assault,77,2019-03-19
+2017,McMinn,Simple Assault,340,2019-03-19
+2017,McMinn,Intimidation,32,2019-03-19
+2017,McMinn,Stalking,2,2019-03-19
+2017,McNairy,Aggravated Assault,51,2019-03-19
+2017,McNairy,Simple Assault,123,2019-03-19
+2017,McNairy,Intimidation,26,2019-03-19
+2017,McNairy,Stalking,1,2019-03-19
+2017,Meigs,Aggravated Assault,17,2019-03-19
+2017,Meigs,Simple Assault,82,2019-03-19
+2017,Meigs,Intimidation,7,2019-03-19
+2017,Meigs,Stalking,0,2019-03-19
+2017,Monroe,Aggravated Assault,138,2019-03-19
+2017,Monroe,Simple Assault,546,2019-03-19
+2017,Monroe,Intimidation,157,2019-03-19
+2017,Monroe,Stalking,5,2019-03-19
+2017,Montgomery,Aggravated Assault,318,2019-03-19
+2017,Montgomery,Simple Assault,1838,2019-03-19
+2017,Montgomery,Intimidation,94,2019-03-19
+2017,Montgomery,Stalking,25,2019-03-19
+2017,Moore,Aggravated Assault,4,2019-03-19
+2017,Moore,Simple Assault,34,2019-03-19
+2017,Moore,Intimidation,4,2019-03-19
+2017,Moore,Stalking,3,2019-03-19
+2017,Morgan,Aggravated Assault,38,2019-03-19
+2017,Morgan,Simple Assault,76,2019-03-19
+2017,Morgan,Intimidation,0,2019-03-19
+2017,Morgan,Stalking,0,2019-03-19
+2017,Obion,Aggravated Assault,50,2019-03-19
+2017,Obion,Simple Assault,234,2019-03-19
+2017,Obion,Intimidation,31,2019-03-19
+2017,Obion,Stalking,4,2019-03-19
+2017,Overton,Aggravated Assault,21,2019-03-19
+2017,Overton,Simple Assault,54,2019-03-19
+2017,Overton,Intimidation,3,2019-03-19
+2017,Overton,Stalking,4,2019-03-19
+2017,Perry,Aggravated Assault,7,2019-03-19
+2017,Perry,Simple Assault,13,2019-03-19
+2017,Perry,Intimidation,0,2019-03-19
+2017,Perry,Stalking,2,2019-03-19
+2017,Pickett,Aggravated Assault,6,2019-03-19
+2017,Pickett,Simple Assault,20,2019-03-19
+2017,Pickett,Intimidation,8,2019-03-19
+2017,Pickett,Stalking,0,2019-03-19
+2017,Polk,Aggravated Assault,13,2019-03-19
+2017,Polk,Simple Assault,93,2019-03-19
+2017,Polk,Intimidation,15,2019-03-19
+2017,Polk,Stalking,0,2019-03-19
+2017,Putnam,Aggravated Assault,65,2019-03-19
+2017,Putnam,Simple Assault,358,2019-03-19
+2017,Putnam,Intimidation,47,2019-03-19
+2017,Putnam,Stalking,4,2019-03-19
+2017,Rhea,Aggravated Assault,50,2019-03-19
+2017,Rhea,Simple Assault,176,2019-03-19
+2017,Rhea,Intimidation,22,2019-03-19
+2017,Rhea,Stalking,2,2019-03-19
+2017,Roane,Aggravated Assault,70,2019-03-19
+2017,Roane,Simple Assault,304,2019-03-19
+2017,Roane,Intimidation,32,2019-03-19
+2017,Roane,Stalking,4,2019-03-19
+2017,Robertson,Aggravated Assault,92,2019-03-19
+2017,Robertson,Simple Assault,379,2019-03-19
+2017,Robertson,Intimidation,20,2019-03-19
+2017,Robertson,Stalking,9,2019-03-19
+2017,Rutherford,Aggravated Assault,449,2019-03-19
+2017,Rutherford,Simple Assault,2470,2019-03-19
+2017,Rutherford,Intimidation,1614,2019-03-19
+2017,Rutherford,Stalking,65,2019-03-19
+2017,Scott,Aggravated Assault,25,2019-03-19
+2017,Scott,Simple Assault,52,2019-03-19
+2017,Scott,Intimidation,7,2019-03-19
+2017,Scott,Stalking,0,2019-03-19
+2017,Sequatchie,Aggravated Assault,21,2019-03-19
+2017,Sequatchie,Simple Assault,78,2019-03-19
+2017,Sequatchie,Intimidation,20,2019-03-19
+2017,Sequatchie,Stalking,1,2019-03-19
+2017,Sevier,Aggravated Assault,157,2019-03-19
+2017,Sevier,Simple Assault,597,2019-03-19
+2017,Sevier,Intimidation,604,2019-03-19
+2017,Sevier,Stalking,9,2019-03-19
+2017,Shelby,Aggravated Assault,2549,2019-03-19
+2017,Shelby,Simple Assault,13102,2019-03-19
+2017,Shelby,Intimidation,3340,2019-03-19
+2017,Shelby,Stalking,423,2019-03-19
+2017,Smith,Aggravated Assault,18,2019-03-19
+2017,Smith,Simple Assault,84,2019-03-19
+2017,Smith,Intimidation,17,2019-03-19
+2017,Smith,Stalking,2,2019-03-19
+2017,Stewart,Aggravated Assault,19,2019-03-19
+2017,Stewart,Simple Assault,37,2019-03-19
+2017,Stewart,Intimidation,3,2019-03-19
+2017,Stewart,Stalking,2,2019-03-19
+2017,Sullivan,Aggravated Assault,239,2019-03-19
+2017,Sullivan,Simple Assault,1286,2019-03-19
+2017,Sullivan,Intimidation,95,2019-03-19
+2017,Sullivan,Stalking,21,2019-03-19
+2017,Sumner,Aggravated Assault,185,2019-03-19
+2017,Sumner,Simple Assault,918,2019-03-19
+2017,Sumner,Intimidation,80,2019-03-19
+2017,Sumner,Stalking,8,2019-03-19
+2017,Tipton,Aggravated Assault,105,2019-03-19
+2017,Tipton,Simple Assault,564,2019-03-19
+2017,Tipton,Intimidation,196,2019-03-19
+2017,Tipton,Stalking,4,2019-03-19
+2017,Trousdale,Aggravated Assault,22,2019-03-19
+2017,Trousdale,Simple Assault,77,2019-03-19
+2017,Trousdale,Intimidation,3,2019-03-19
+2017,Trousdale,Stalking,0,2019-03-19
+2017,Unicoi,Aggravated Assault,32,2019-03-19
+2017,Unicoi,Simple Assault,111,2019-03-19
+2017,Unicoi,Intimidation,31,2019-03-19
+2017,Unicoi,Stalking,3,2019-03-19
+2017,Union,Aggravated Assault,30,2019-03-19
+2017,Union,Simple Assault,117,2019-03-19
+2017,Union,Intimidation,16,2019-03-19
+2017,Union,Stalking,0,2019-03-19
+2017,Van Buren,Aggravated Assault,2,2019-03-19
+2017,Van Buren,Simple Assault,11,2019-03-19
+2017,Van Buren,Intimidation,0,2019-03-19
+2017,Van Buren,Stalking,0,2019-03-19
+2017,VanBuren,Aggravated Assault,2,2019-03-19
+2017,VanBuren,Simple Assault,11,2019-03-19
+2017,VanBuren,Intimidation,0,2019-03-19
+2017,VanBuren,Stalking,0,2019-03-19
+2017,Warren,Aggravated Assault,66,2019-03-19
+2017,Warren,Simple Assault,310,2019-03-19
+2017,Warren,Intimidation,23,2019-03-19
+2017,Warren,Stalking,1,2019-03-19
+2017,Washington,Aggravated Assault,156,2019-03-19
+2017,Washington,Simple Assault,781,2019-03-19
+2017,Washington,Intimidation,66,2019-03-19
+2017,Washington,Stalking,13,2019-03-19
+2017,Wayne,Aggravated Assault,24,2019-03-19
+2017,Wayne,Simple Assault,47,2019-03-19
+2017,Wayne,Intimidation,4,2019-03-19
+2017,Wayne,Stalking,3,2019-03-19
+2017,Weakley,Aggravated Assault,25,2019-03-19
+2017,Weakley,Simple Assault,183,2019-03-19
+2017,Weakley,Intimidation,23,2019-03-19
+2017,Weakley,Stalking,1,2019-03-19
+2017,White,Aggravated Assault,27,2019-03-19
+2017,White,Simple Assault,108,2019-03-19
+2017,White,Intimidation,9,2019-03-19
+2017,White,Stalking,2,2019-03-19
+2017,Williamson,Aggravated Assault,72,2019-03-19
+2017,Williamson,Simple Assault,477,2019-03-19
+2017,Williamson,Intimidation,60,2019-03-19
+2017,Williamson,Stalking,12,2019-03-19
+2017,Wilson,Aggravated Assault,149,2019-03-19
+2017,Wilson,Simple Assault,714,2019-03-19
+2017,Wilson,Intimidation,51,2019-03-19
+2017,Wilson,Stalking,5,2019-03-19
+

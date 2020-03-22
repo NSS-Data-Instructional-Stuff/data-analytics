@@ -1,0 +1,287 @@
+Year,CountyName,Category,Count,LastReportedDate,
+2017,Anderson,Murder,5,2019-03-19
+2017,Anderson,Negligent Manslaughter,1,2019-03-19
+2017,Anderson,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Bedford,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Bedford,Negligent Manslaughter,0,2019-03-19
+2017,Bedford,Murder,0,2019-03-19
+2017,Benton,Murder,1,2019-03-19
+2017,Benton,Negligent Manslaughter,0,2019-03-19
+2017,Benton,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Bledsoe,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Bledsoe,Negligent Manslaughter,0,2019-03-19
+2017,Bledsoe,Murder,0,2019-03-19
+2017,Blount,Murder,4,2019-03-19
+2017,Blount,Negligent Manslaughter,1,2019-03-19
+2017,Blount,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Bradley,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Bradley,Negligent Manslaughter,0,2019-03-19
+2017,Bradley,Murder,2,2019-03-19
+2017,Campbell,Murder,1,2019-03-19
+2017,Campbell,Negligent Manslaughter,0,2019-03-19
+2017,Campbell,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Cannon,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Cannon,Negligent Manslaughter,0,2019-03-19
+2017,Cannon,Murder,2,2019-03-19
+2017,Carroll,Murder,0,2019-03-19
+2017,Carroll,Negligent Manslaughter,0,2019-03-19
+2017,Carroll,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Carter,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Carter,Negligent Manslaughter,0,2019-03-19
+2017,Carter,Murder,0,2019-03-19
+2017,Cheatham,Murder,2,2019-03-19
+2017,Cheatham,Negligent Manslaughter,0,2019-03-19
+2017,Cheatham,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Chester,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Chester,Negligent Manslaughter,0,2019-03-19
+2017,Chester,Murder,1,2019-03-19
+2017,Claiborne,Murder,2,2019-03-19
+2017,Claiborne,Negligent Manslaughter,0,2019-03-19
+2017,Claiborne,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Clay,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Clay,Negligent Manslaughter,0,2019-03-19
+2017,Clay,Murder,0,2019-03-19
+2017,Cocke,Murder,0,2019-03-19
+2017,Cocke,Negligent Manslaughter,0,2019-03-19
+2017,Cocke,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Coffee,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Coffee,Negligent Manslaughter,0,2019-03-19
+2017,Coffee,Murder,1,2019-03-19
+2017,Crockett,Murder,0,2019-03-19
+2017,Crockett,Negligent Manslaughter,0,2019-03-19
+2017,Crockett,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Cumberland,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Cumberland,Negligent Manslaughter,1,2019-03-19
+2017,Cumberland,Murder,1,2019-03-19
+2017,Davidson,Murder,110,2019-03-19
+2017,Davidson,Negligent Manslaughter,1,2019-03-19
+2017,Davidson,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Decatur,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Decatur,Negligent Manslaughter,0,2019-03-19
+2017,Decatur,Murder,0,2019-03-19
+2017,DeKalb,Murder,0,2019-03-19
+2017,DeKalb,Negligent Manslaughter,0,2019-03-19
+2017,DeKalb,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Dickson,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Dickson,Negligent Manslaughter,0,2019-03-19
+2017,Dickson,Murder,4,2019-03-19
+2017,Dyer,Murder,0,2019-03-19
+2017,Dyer,Negligent Manslaughter,0,2019-03-19
+2017,Dyer,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Fayette,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Fayette,Negligent Manslaughter,0,2019-03-19
+2017,Fayette,Murder,2,2019-03-19
+2017,Fentress,Murder,1,2019-03-19
+2017,Fentress,Negligent Manslaughter,0,2019-03-19
+2017,Fentress,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Franklin,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Franklin,Negligent Manslaughter,0,2019-03-19
+2017,Franklin,Murder,1,2019-03-19
+2017,Gibson,Murder,3,2019-03-19
+2017,Gibson,Negligent Manslaughter,0,2019-03-19
+2017,Gibson,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Giles,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Giles,Negligent Manslaughter,0,2019-03-19
+2017,Giles,Murder,2,2019-03-19
+2017,Grainger,Murder,1,2019-03-19
+2017,Grainger,Negligent Manslaughter,0,2019-03-19
+2017,Grainger,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Greene,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Greene,Negligent Manslaughter,0,2019-03-19
+2017,Greene,Murder,1,2019-03-19
+2017,Grundy,Murder,1,2019-03-19
+2017,Grundy,Negligent Manslaughter,0,2019-03-19
+2017,Grundy,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Hamblen,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Hamblen,Negligent Manslaughter,0,2019-03-19
+2017,Hamblen,Murder,3,2019-03-19
+2017,Hamilton,Murder,32,2019-03-19
+2017,Hamilton,Negligent Manslaughter,0,2019-03-19
+2017,Hamilton,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Hancock,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Hancock,Negligent Manslaughter,0,2019-03-19
+2017,Hancock,Murder,0,2019-03-19
+2017,Hardeman,Murder,0,2019-03-19
+2017,Hardeman,Negligent Manslaughter,0,2019-03-19
+2017,Hardeman,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Hardin,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Hardin,Negligent Manslaughter,0,2019-03-19
+2017,Hardin,Murder,0,2019-03-19
+2017,Hawkins,Murder,2,2019-03-19
+2017,Hawkins,Negligent Manslaughter,0,2019-03-19
+2017,Hawkins,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Haywood,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Haywood,Negligent Manslaughter,0,2019-03-19
+2017,Haywood,Murder,4,2019-03-19
+2017,Henderson,Murder,2,2019-03-19
+2017,Henderson,Negligent Manslaughter,0,2019-03-19
+2017,Henderson,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Henry,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Henry,Negligent Manslaughter,0,2019-03-19
+2017,Henry,Murder,3,2019-03-19
+2017,Hickman,Murder,1,2019-03-19
+2017,Hickman,Negligent Manslaughter,0,2019-03-19
+2017,Hickman,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Houston,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Houston,Negligent Manslaughter,0,2019-03-19
+2017,Houston,Murder,0,2019-03-19
+2017,Humphreys,Murder,1,2019-03-19
+2017,Humphreys,Negligent Manslaughter,0,2019-03-19
+2017,Humphreys,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Jackson,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Jackson,Negligent Manslaughter,0,2019-03-19
+2017,Jackson,Murder,0,2019-03-19
+2017,Jefferson,Murder,0,2019-03-19
+2017,Jefferson,Negligent Manslaughter,0,2019-03-19
+2017,Jefferson,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Johnson,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Johnson,Negligent Manslaughter,0,2019-03-19
+2017,Johnson,Murder,0,2019-03-19
+2017,Knox,Murder,39,2019-03-19
+2017,Knox,Negligent Manslaughter,0,2019-03-19
+2017,Knox,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Lake,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Lake,Negligent Manslaughter,0,2019-03-19
+2017,Lake,Murder,0,2019-03-19
+2017,Lauderdale,Murder,1,2019-03-19
+2017,Lauderdale,Negligent Manslaughter,0,2019-03-19
+2017,Lauderdale,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Lawrence,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Lawrence,Negligent Manslaughter,1,2019-03-19
+2017,Lawrence,Murder,3,2019-03-19
+2017,Lewis,Murder,2,2019-03-19
+2017,Lewis,Negligent Manslaughter,0,2019-03-19
+2017,Lewis,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Lincoln,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Lincoln,Negligent Manslaughter,0,2019-03-19
+2017,Lincoln,Murder,0,2019-03-19
+2017,Loudon,Murder,4,2019-03-19
+2017,Loudon,Negligent Manslaughter,0,2019-03-19
+2017,Loudon,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Macon,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Macon,Negligent Manslaughter,0,2019-03-19
+2017,Macon,Murder,2,2019-03-19
+2017,Madison,Murder,7,2019-03-19
+2017,Madison,Negligent Manslaughter,0,2019-03-19
+2017,Madison,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Marion,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Marion,Negligent Manslaughter,0,2019-03-19
+2017,Marion,Murder,0,2019-03-19
+2017,Marshall,Murder,1,2019-03-19
+2017,Marshall,Negligent Manslaughter,0,2019-03-19
+2017,Marshall,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Maury,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Maury,Negligent Manslaughter,2,2019-03-19
+2017,Maury,Murder,3,2019-03-19
+2017,McMinn,Murder,1,2019-03-19
+2017,McMinn,Negligent Manslaughter,0,2019-03-19
+2017,McMinn,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,McNairy,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,McNairy,Negligent Manslaughter,0,2019-03-19
+2017,McNairy,Murder,1,2019-03-19
+2017,Meigs,Murder,0,2019-03-19
+2017,Meigs,Negligent Manslaughter,0,2019-03-19
+2017,Meigs,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Monroe,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Monroe,Negligent Manslaughter,0,2019-03-19
+2017,Monroe,Murder,1,2019-03-19
+2017,Montgomery,Murder,14,2019-03-19
+2017,Montgomery,Negligent Manslaughter,1,2019-03-19
+2017,Montgomery,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Moore,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Moore,Negligent Manslaughter,0,2019-03-19
+2017,Moore,Murder,0,2019-03-19
+2017,Morgan,Murder,0,2019-03-19
+2017,Morgan,Negligent Manslaughter,0,2019-03-19
+2017,Morgan,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Obion,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Obion,Negligent Manslaughter,0,2019-03-19
+2017,Obion,Murder,2,2019-03-19
+2017,Overton,Murder,0,2019-03-19
+2017,Overton,Negligent Manslaughter,0,2019-03-19
+2017,Overton,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Perry,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Perry,Negligent Manslaughter,0,2019-03-19
+2017,Perry,Murder,0,2019-03-19
+2017,Pickett,Murder,1,2019-03-19
+2017,Pickett,Negligent Manslaughter,0,2019-03-19
+2017,Pickett,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Polk,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Polk,Negligent Manslaughter,0,2019-03-19
+2017,Polk,Murder,2,2019-03-19
+2017,Putnam,Murder,4,2019-03-19
+2017,Putnam,Negligent Manslaughter,0,2019-03-19
+2017,Putnam,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Rhea,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Rhea,Negligent Manslaughter,0,2019-03-19
+2017,Rhea,Murder,1,2019-03-19
+2017,Roane,Murder,2,2019-03-19
+2017,Roane,Negligent Manslaughter,0,2019-03-19
+2017,Roane,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Robertson,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Robertson,Negligent Manslaughter,0,2019-03-19
+2017,Robertson,Murder,4,2019-03-19
+2017,Rutherford,Murder,9,2019-03-19
+2017,Rutherford,Negligent Manslaughter,0,2019-03-19
+2017,Rutherford,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Scott,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Scott,Negligent Manslaughter,0,2019-03-19
+2017,Scott,Murder,0,2019-03-19
+2017,Sequatchie,Murder,1,2019-03-19
+2017,Sequatchie,Negligent Manslaughter,0,2019-03-19
+2017,Sequatchie,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Sevier,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Sevier,Negligent Manslaughter,1,2019-03-19
+2017,Sevier,Murder,1,2019-03-19
+2017,Shelby,Murder,187,2019-03-19
+2017,Shelby,Negligent Manslaughter,2,2019-03-19
+2017,Shelby,Negligent Vehicular Manslaughter,4,2019-03-19
+2017,Smith,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Smith,Negligent Manslaughter,0,2019-03-19
+2017,Smith,Murder,0,2019-03-19
+2017,Stewart,Murder,0,2019-03-19
+2017,Stewart,Negligent Manslaughter,0,2019-03-19
+2017,Stewart,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Sullivan,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Sullivan,Negligent Manslaughter,0,2019-03-19
+2017,Sullivan,Murder,9,2019-03-19
+2017,Sumner,Murder,3,2019-03-19
+2017,Sumner,Negligent Manslaughter,1,2019-03-19
+2017,Sumner,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Tipton,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Tipton,Negligent Manslaughter,0,2019-03-19
+2017,Tipton,Murder,2,2019-03-19
+2017,Trousdale,Murder,0,2019-03-19
+2017,Trousdale,Negligent Manslaughter,0,2019-03-19
+2017,Trousdale,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Unicoi,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Unicoi,Negligent Manslaughter,0,2019-03-19
+2017,Unicoi,Murder,3,2019-03-19
+2017,Union,Murder,3,2019-03-19
+2017,Union,Negligent Manslaughter,0,2019-03-19
+2017,Union,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,VanBuren,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,VanBuren,Negligent Manslaughter,0,2019-03-19
+2017,VanBuren,Murder,0,2019-03-19
+2017,Warren,Murder,2,2019-03-19
+2017,Warren,Negligent Manslaughter,0,2019-03-19
+2017,Warren,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Washington,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Washington,Negligent Manslaughter,1,2019-03-19
+2017,Washington,Murder,4,2019-03-19
+2017,Wayne,Murder,0,2019-03-19
+2017,Wayne,Negligent Manslaughter,0,2019-03-19
+2017,Wayne,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Weakley,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Weakley,Negligent Manslaughter,0,2019-03-19
+2017,Weakley,Murder,2,2019-03-19
+2017,White,Murder,0,2019-03-19
+2017,White,Negligent Manslaughter,0,2019-03-19
+2017,White,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Williamson,Negligent Vehicular Manslaughter,0,2019-03-19
+2017,Williamson,Negligent Manslaughter,0,2019-03-19
+2017,Williamson,Murder,3,2019-03-19
+2017,Wilson,Murder,4,2019-03-19
+2017,Wilson,Negligent Manslaughter,0,2019-03-19
+2017,Wilson,Negligent Vehicular Manslaughter,0,2019-03-19
+

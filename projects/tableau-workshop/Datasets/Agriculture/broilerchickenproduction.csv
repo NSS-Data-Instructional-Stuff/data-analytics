@@ -1,0 +1,22 @@
+State,Year,Commodity,Attribute,Unit,Value,LastReportedDate,
+Tennessee,2016,Broilers,Number Produced,heads,175200000,2019-03-19
+Tennessee,2016,Broilers,Pounds Produced,pounds,928600000,2019-03-19
+Tennessee,2016,Broilers,Value of Production,dollars,443871000,2019-03-19
+Tennessee,2016,Chickens,Number Lost,heads,363300,2019-03-19
+Tennessee,2016,Chickens,Number Sold for Slaughter,heads,2199400,2019-03-19
+Tennessee,2016,Chickens,Pounds Sold,pounds,17287300,2019-03-19
+Tennessee,2016,Chickens,Vaue of Sales,dollars,2351100,2019-03-19
+Tennessee,2016,Eggs,Eggs Produced,dozens of eggs,32875100,2019-03-19
+Tennessee,2016,Eggs,Eggs Produced,eggs,394500000,2019-03-19
+Tennessee,2016,Eggs,Value of Production,dollars,76518000,2019-03-19
+Tennessee,2017,Broilers,Number Produced,heads,171500000,2019-03-19
+Tennessee,2017,Broilers,Pounds Produced,pounds,909000000,2019-03-19
+Tennessee,2017,Broilers,Value of Production,dollars,494496000,2019-03-19
+Tennessee,2017,Chickens,Number Lost,heads,519700,2019-03-19
+Tennessee,2017,Chickens,Number Sold for Slaughter,heads,1793800,2019-03-19
+Tennessee,2017,Chickens,Pounds Sold,pounds,14045500,2019-03-19
+Tennessee,2017,Chickens,Vaue of Sales,dollars,1039400,2019-03-19
+Tennessee,2017,Eggs,Eggs Produced,dozens of eggs,31216800,2019-03-19
+Tennessee,2017,Eggs,Eggs Produced,eggs,374600000,2019-03-19
+Tennessee,2017,Eggs,Value of Production,dollars,68391000,2019-03-19
+
