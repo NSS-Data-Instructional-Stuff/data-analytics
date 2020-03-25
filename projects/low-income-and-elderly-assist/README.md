@@ -21,12 +21,12 @@ width: width of the returned reference (optional)
 
 2. Minimally, the organization (Hand Up America) wants to be able to see the following information _*for each state*_ as part of the dashboard:  
 
-    - What percentage of tax returns filed are elderly returns? Create a plot showing the states with the ten highest percentage of elderly returns. 
+    a. What percentage of tax returns filed are elderly returns? Create a plot showing the states with the ten highest percentage of elderly returns. 
 
 
-    - How does the distribution of single, joint, and head-of-household returns filed differ by income bracket? How does this compare to the national picture?
+    b. How does the distribution of single, joint, and head-of-household returns filed differ across all returns? How does this compare to the national picture?
 
-    - How do active vs passive sources of income differ for each income bracket. Look at the percentage of total income (row 27) that comes from active sources -- salaries and wages + business or profession net income (rows 29 and 39) vs the percentage that comes from passive sources -- interest + dividends + capital gains (rows 31, 33, 41).  
+    c. How do active vs passive sources of income differ for each income bracket. Look at the percentage of total income (row 27) that comes from active sources -- salaries and wages + business or profession net income (rows 29 and 39) vs the percentage that comes from passive sources -- interest + dividends + capital gains (rows 31, 33, 41).  
 
 
 3. For each state, calculate the total tax liability (row 144) per person. Use the number of exemptions (row 15) as a proxy for the number of people in the household. Don’t forget that tax liability is given in thousands of dollars. What are the top 10 and bottom 10 states in this metric? Create a map to illustrate your findings.
