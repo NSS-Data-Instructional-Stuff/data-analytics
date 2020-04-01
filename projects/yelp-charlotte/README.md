@@ -6,7 +6,7 @@
 
 2. Select to write a query to specify the data to import. The full dataset contains more than 6.6 million reviews, so we will use SQL queries to only pull in the relevant ones.  
 
-    - First, we will bring in all Charlotte businesses:  
+    a. First, we will bring in all Charlotte businesses:  
 
     ```SELECT * FROM business WHERE city = 'Charlotte' and state = 'NC';```  
 
@@ -15,13 +15,13 @@
 
     This should result in 9,507 rows transferred. Rename the resulting table to `dimension_business`.
 
-    - Next, pull in all reviews of the businesses in Charlotte using this query:  
+    b.  Next, pull in all reviews of the businesses in Charlotte using this query:  
 
     ```SELECT * FROM review WHERE business_id IN (SELECT business_id FROM business WHERE city = 'Charlotte' and state = 'NC');```
 
     This should result in 309,406 rows. Rename this table to `fact_review`.
 
-    - Finally, get information of all users who have reviewed these businesses with the following query:  
+    c.  Finally, get information of all users who have reviewed these businesses with the following query:  
 
     ```SELECT * FROM yelp_user WHERE user_id IN (SELECT user_id FROM review WHERE business_id IN (SELECT business_id FROM business WHERE city = 'Charlotte' and state = 'NC'));```
 
