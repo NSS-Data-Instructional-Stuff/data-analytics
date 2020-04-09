@@ -16,7 +16,7 @@ d. In the `Filename` section, browse to the backup file `app_store_backup.backup
 e. Click `Restore` to load the database.  
 
 f. Verify that you have two tables:  
-    - `app_store_apps` with 7197 rows
+    - `app_store_apps` with 7197 rows  
     - `play_store_apps` with 10840 rows
 
 
