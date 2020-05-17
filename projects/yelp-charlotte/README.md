@@ -6,7 +6,7 @@
 
 2. Select to write a query to specify the data to import. The full dataset contains more than 6.6 million reviews, so we will use SQL queries to only pull in the relevant ones.  
 
-    - First, we will bring in all Charlotte businesses:  
+    a. First, we will bring in all Charlotte businesses:  
 
     ```SELECT * FROM business WHERE city = 'Charlotte' and state = 'NC';```  
 
@@ -15,13 +15,13 @@
 
     This should result in 9,507 rows transferred. Rename the resulting table to `dimension_business`.
 
-    - Next, pull in all reviews of the businesses in Charlotte using this query:  
+    b.  Next, pull in all reviews of the businesses in Charlotte using this query:  
 
     ```SELECT * FROM review WHERE business_id IN (SELECT business_id FROM business WHERE city = 'Charlotte' and state = 'NC');```
 
     This should result in 309,406 rows. Rename this table to `fact_review`.
 
-    - Finally, get information of all users who have reviewed these businesses with the following query:  
+    c.  Finally, get information of all users who have reviewed these businesses with the following query:  
 
     ```SELECT * FROM yelp_user WHERE user_id IN (SELECT user_id FROM review WHERE business_id IN (SELECT business_id FROM business WHERE city = 'Charlotte' and state = 'NC'));```
 
@@ -32,6 +32,7 @@
  ![diagram_view](assets/relationship.png)  
 
  3. Under the `Home` tab, click on `Diagram View`. Rearrange your tables so that the `fact_review` table is in the center. Drag the `user_id` from the `dimension_user` table to the `user_id` from the `fact_review` table. Also, drag the `business_id` from the `fact_review` table to the `business_id` in the `dimension_business` table.  
+ Save your spreadsheet. You are now ready to Insert --> PivotTable and choose: `Use this workbook's Data Model`.
 
        a. Which  user has the lowest average review score? When answering this question, use the star column from the `fact_review` table (not the one in the `dimension_user` table). Also, **only** consider users who have written at least 25 reviews. Drill down to see this user’s reviews. What types of businesses does this user tend to review?   
 
