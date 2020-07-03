@@ -4,7 +4,7 @@
 
 1. Use the connection you created in the setup exercise to connect to the Yelp Database on AWS (**Get External Data --> Existing Connections**). If the connection does not still exist, create it again.
 
-2. Select to write a query to specify the data to import. The full dataset contains more than 6.6 million reviews, so we will use SQL queries to only pull in the relevant ones.  
+2. Select the option to write a query to specify the data to import. The full dataset contains more than 6.6 million reviews, so we will use SQL queries to only pull in the relevant ones.  
 
     a. First, we will bring in all Charlotte businesses:  
 
@@ -38,8 +38,6 @@
 
       b. Which business has the highest number of 5-star reviews? (Make sure that you use count of stars, not sum of stars here!). Which has the highest number of 1-star reviews? Highest number of total reviews?  
 
-     BONUS:  The business with the highest number of 5-star reviews might just be one that has been reviewed a lot. Redo the previous question but this time, find the business with the highest proportion of 5-star reviews. To ensure that we have a large enough sample of reviews, only consider businesses with at least 100 reviews. Which business has the highest proportion of 1-star reviews? Again, only consider businesses having at least 100 reviews.   
-
       c. How many businesses in the dataset are no longer open? Does there appear to be a difference in the average stars recieved by businesses that are still open and those that have closed?
 
       d. Explore how reviews have changed from year to year. For example, look at number of reviews per year, percentage of reviews by number of stars, or anything else interesing that you find.
@@ -48,7 +46,9 @@
 
       f. If you were planning a trip to Charlotte and could only use the reviews of one user to plan your trip, which user would you choose and why?
 
-      Difficult Bonus (Save this for the very last): Recommendation sites depend on groups of users having similar tastes. Find all users who have given McDonald's 5 stars on at least one review. Then find all users who have given Del Frisco's Double Eagle Steak House a 5 star review. Finally, see if you can find any differences in businesses highly reviewed by each group.
+**BONUS:**  The business with the highest number of 5-star reviews (3b above) might just be one that has been reviewed a lot. Redo question 3b, but this time find the business with the highest proportion of 5-star reviews. To ensure that we have a large enough sample of reviews, only consider businesses with at least 100 reviews. Which business has the highest proportion of 1-star reviews? Again, only consider businesses having at least 100 reviews.   
+
+**Difficult BONUS** (Save this for the very last): Recommendation sites depend on groups of users having similar tastes. Find all users who have given McDonald's 5 stars on at least one review. Then find all users who have given Del Frisco's Double Eagle Steak House a 5 star review. Finally, see if you can find any differences in businesses highly reviewed by each group.
 
 #### Power Map
 What business has the most locations? Drill down to a table showing all of this business’s locations. Add a column to the drilled down table. In this column, create that location’s full address by concatenating the address, city, state, and zip code. Next, add this table to the data model and give it an appropriate name. To jazz up our map, we’ll need a relationship with this table and the `fact_review` table, so create a relationship between them. Create a 3D Map/Power Map showing all of the locations of this business. Try adding bars for average review, how reviews changed over time, etc.
