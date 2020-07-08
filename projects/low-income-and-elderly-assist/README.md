@@ -24,9 +24,9 @@ width: width of the returned reference (optional)
     a. What percentage of tax returns filed are elderly returns? Create a plot showing the states with the ten highest percentages of elderly returns.
 
 
-    b. How do the distributions of single, joint, and head-of-household returns filed compare? How do they compare to the national picture?
+    b. Do elderly returns tend to show more or less than $50,000 adjusted gross income for states?
 
-    c. How do active vs passive sources of income differ for each income bracket. Look at the percentage of total income (row 27) that comes from active sources -- salaries and wages + business or profession net income (rows 29 and 39) vs the percentage that comes from passive sources -- interest + dividends + capital gains (rows 31, 33, 41).  
+    c. Passive income may be more subject to volatility. How do active vs passive sources of income differ for each income bracket. Look at the percentage of total income (row 27) that comes from active sources -- salaries and wages + business or profession net income (rows 29 and 39) vs the percentage that comes from passive sources -- interest + dividends + capital gains (rows 31, 33, 41).  
 
 
 3. For each state, calculate the total tax liability (row 144) per person. Use the number of exemptions (row 15) as a proxy for the number of people in the household. Don’t forget that tax liability is given in thousands of dollars. What are the top 10 and bottom 10 states in this metric? Create a map to illustrate your findings.
