@@ -1,0 +1,10 @@
+name: sql-connection
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - sqlalchemy
+  - psycopg2
+  - python-dotenv
+  - jupyter
