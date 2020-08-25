@@ -23,7 +23,8 @@ Feel free to reference your SQL scripts from before and use them to validate you
 
 From `terminal` or `anaconda prompt` run: 
 ```bash
-conda install -c conda-forge psycopg2
+conda install psycopg2
+conda install sqlalchemy
 ```
 then launch jupyter notebook
 
@@ -35,7 +36,7 @@ from sqlalchemy import create_engine
 
 # establish a database connection
 engine = create_engine("postgres+psycopg2://postgres:postgres@localhost:5432/<lahman_baseball_database_name>")
-In the above example replace `<lahman_baseball_database_name>` with the actual name of your lahman baseball database as it appears in pgadmin
+# Replace `<lahman_baseball_database_name>` with the actual name of your lahman baseball database as it appears in pgadmin
 
 # use the connection to run a query using pandas!
 df = pd.read_sql("SELECT * FROM batting;", con=engine)
