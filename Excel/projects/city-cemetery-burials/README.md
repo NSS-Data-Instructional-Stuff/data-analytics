@@ -12,7 +12,7 @@ The Nashville City Cemetery Association has asked you to explore the dataset to 
 
 4. Next look at how age at the time of death has changed over time. Add a column to the original dataset to classify each row to one of the following categories (0-18, 19-25, 26-40, 41-64, and 65+). Be sure to think about a strategy to deal with missing values. Make a series of pie charts or donut charts to show the breakdown of each age group for these four periods: before 1880, 1881-1900, 1900-1920, after 1920.
 
-5. Examine burials by month. Are there months with higher burials? What are the top five causes of death for each month? Choose a visualisation that conveys the differences well.
+5. Examine burials by month. Are there months with higher burials? What are the top five causes of death for each month? Choose a visualization that conveys the differences well.
 
 6. Create a new column titled Last Name. Extract the last name from the Name column by subsetting to all characters to the left of the comma (see the DataCamp exercise titled “String Information – LEN, SEARCH” from the Data Analysis with Spreadsheets if you need help with this). This will result in many errors for rows missing commas.   
     a. 	Drill down to those rows without a comma – what do you notice?  
@@ -22,4 +22,4 @@ The Nashville City Cemetery Association has asked you to explore the dataset to 
 7. Do you notice any interesting patterns regarding where (`Section/Lot`) people were buried?
 
 
-#### Create a new sheet for each pivot table or analysis work done to create a visualization and give each sheet a descriptive/meaningful name. Put all final charts (along with the related story) on their own worksheet. You should only include charts on this sheet that you think deliver what has been asked for.
+#### Create a new sheet for each pivot table or analysis work done to create a visualization and give each sheet a descriptive/meaningful name. Put all final charts (along with the related story) on their own worksheet. You should include any charts on this sheet that you think deliver a fun marketing piece. 
