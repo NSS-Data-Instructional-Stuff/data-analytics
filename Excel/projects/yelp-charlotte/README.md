@@ -34,13 +34,13 @@
  3. Under the `Home` tab, click on `Diagram View`. Rearrange your tables so that the `fact_review` table is in the center. Drag the `user_id` from the `dimension_user` table to the `user_id` from the `fact_review` table. Also, drag the `business_id` from the `fact_review` table to the `business_id` in the `dimension_business` table.  
  Save your spreadsheet. You are now ready to Insert --> PivotTable and choose: `Use this workbook's Data Model`.
 
-       a. Which  user has the lowest average review score? When answering this question, use the star column from the `fact_review` table (not the one in the `dimension_user` table). Also, **only** consider users who have written at least 25 reviews. Drill down to see this user’s reviews. What types of businesses does this user tend to review?   
+       a. Which  user has the lowest average review score? When answering this question, use the star column from the `fact_review` table (not the one in the `dimension_user` table). Also, **only** consider users who have written at least 25 reviews. Drill down to see this user’s reviews. What do you observe about the types of businesses this user tends to review (no need to use formulas)?   
 
       b. Which business has the highest number of 5-star reviews? (Make sure that you use count of stars, not sum of stars here!). Which has the highest number of 1-star reviews? Highest number of total reviews?  
 
-      c. How many businesses in the dataset are no longer open? Does there appear to be a difference in the average stars recieved by businesses that are still open and those that have closed?
+      c. How many businesses in the dataset are no longer open? Does there appear to be a difference in the average stars received from reviews between businesses that are still open and those that have closed?
 
-      d. Explore how reviews have changed from year to year. For example, look at number of reviews per year, percentage of reviews by number of stars, or anything else interesing that you find.
+      d. Explore how reviews have changed from year to year. For example, look at number of reviews per year, percentage of reviews by number of stars, or anything else interesting that you find.
 
       e. In the fact_review table, create a new column which contains the number of words in each review. Using this, find the user who writes the longest reviews on average. Consider only reviewers who have written at least 25 reviews. Do positive reviews tend to be longer or shorter than negative reviews? Which business has the longest average review length?
 
