@@ -36,7 +36,7 @@ e. App Trader would prefer to work with apps that are available in both the App 
 #### 3. Deliverables
 a. Develop some general recommendations as to the price range, genre, content rating, or anything else for apps that the company should target.  
 
-b. Develop a Top 10 List of the apps that App Trader should buy next week for its **Labor Day** debut.  
+b. Develop a Top 10 List of the apps that App Trader should buy next week for its **Black Friday** debut.  
 
 c. Prepare a 5-10 minute presentation for the leadership team of App Trader to inform them of your recommendations.
 
