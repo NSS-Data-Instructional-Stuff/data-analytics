@@ -27,7 +27,7 @@ The spread of COVID-19 has been a concern since March 2020. In this project, you
 Explore the COVID-19 violations reported through hubNashville to see how these have changed over time. Do violations get reported more in certain areas?
 
 #### Part 2 
-Use sqlalchemy to load data from the `counties` table in the `covid_data` database on AWS. Explore this data. Is there a relationship between the number of cases over time and the number of violations reported over time?
+Use sqlalchemy to load data for Nashville from the `counties` table in the `covid_data` database on AWS. Explore this data. Is there a relationship between the number of cases over time and the number of violations reported over time?
 
 #### Part 3
 Use sqlalchemy to load data from the `mask_use` table in the `covid_data` database on AWS. How does Davidson County Tennessee compare to other counties in TN? How does it compare to other counties in the US?
