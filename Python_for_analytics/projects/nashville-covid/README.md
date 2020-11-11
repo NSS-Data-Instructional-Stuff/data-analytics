@@ -1,5 +1,5 @@
 ### COVID-19 Spread
-The spread of COVID-19 has been a concern since March 2020. In this project, you will explore COVID-19 in the Metroplitan Nashville area.
+The spread of COVID-19 has been a concern since March 2020. In this project, you will explore COVID-19 in the Metropolitan Nashville area.
 
 #### Available Data
  - [hubNashville 311 Sevice Requests](https://data.nashville.gov/Public-Services/hubNashville-311-Service-Requests/7qhx-rexh): Violations of Covid related rules and regulations are contained in this dataset where `Request Type` is **COVID-19** and `Subrequest Type` is **COVID-19 Violations**
