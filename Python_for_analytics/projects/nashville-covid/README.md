@@ -33,7 +33,7 @@ Use sqlalchemy to load data for Nashville from the `counties` table in the `covi
 Use sqlalchemy to load data from the `mask_use` table in the `covid_data` database on AWS. How does Davidson County Tennessee compare to other counties in TN? How does it compare to other counties in the US?
 
 #### Part 4
-Explore whether there is a discernable relationship between reported COVID-19 violations and COVID-19 clusters. Use the `businesses` dataset to find possible business locations for the reported violations.
+Explore whether there is a discernible relationship between reported COVID-19 violations and reported COVID-19 clusters. Use the `businesses` dataset to find possible business locations for the reported violations.
 
 #### Part 5
 If time permits, choose another aspect of COVID-19 in Nashville to explore.
