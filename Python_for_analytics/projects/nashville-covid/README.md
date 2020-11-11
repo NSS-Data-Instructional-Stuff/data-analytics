@@ -2,7 +2,7 @@
 The spread of COVID-19 has been a concern since March 2020. In this project, you will explore COVID-19 in the Metropolitan Nashville area.
 
 #### Available Data
- - [hubNashville 311 Sevice Requests](https://data.nashville.gov/Public-Services/hubNashville-311-Service-Requests/7qhx-rexh): Violations of Covid related rules and regulations are contained in this dataset where `Request Type` is **COVID-19** and `Subrequest Type` is **COVID-19 Violations**
+ - [hubNashville 311 Service Requests](https://data.nashville.gov/Public-Services/hubNashville-311-Service-Requests/7qhx-rexh): Violations of Covid related rules and regulations are contained in this dataset where `Request Type` is **COVID-19** and `Subrequest Type` is **COVID-19 Violations**
 
   - `clusters.csv` was scraped from the [wsmv website](https://www.wsmv.com/news/metro-health-releases-latest-covid-19-clusters/article_ef554e08-1558-11eb-b290-873345e174d7.html) and geocoded using the Google API. The dataset provides detail for COVID-19 clusters (groupings of 10 or more cases identified by the Metro Public Health Department through its case investigation process).  
   **Cluster Name** - the name of the place where a cluster of cases has been traced to  
