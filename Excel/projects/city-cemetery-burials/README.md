@@ -1,6 +1,6 @@
-The city of Nashville provides a dataset of known burials in city cemeteries from 1846 through 1979. This dataset holds factual information, but it also offers a fascinating glimpse into historical trends in medicine, literacy, racial equality, and more.
+The Nashville City Cemetery Association has asked you to create marketing materials. The following exercises are a _starting point_ for exploring the data and creating visualizations. Once you have completed the exercises below, create additional visualizations to accompany storytelling points. An example of this is shown below for the first exercise.
 
-The Nashville City Cemetery Association has asked you to explore the dataset to create charts that can be used in marketing materials. The following exercises are a _starting point_ for exploring the data and creating visualizations. Once you have completed the exercises below, create additional visualizations to accompany storytelling points. An example of this is shown below for the first exercise.
+The city of Nashville provides a dataset of known burials in city cemeteries from 1846 through 1979. This dataset holds factual information, but it also offers a fascinating glimpse into historical trends in medicine, literacy, racial equality, and more.
 
 ![top 10 causes](assets/top_10_death_causes.png)
 
@@ -22,4 +22,4 @@ The Nashville City Cemetery Association has asked you to explore the dataset to 
 7. Do you notice any interesting patterns regarding where (`Section/Lot`) people were buried?
 
 
-#### Create a new sheet for each pivot table or analysis work done to create a visualization and give each sheet a descriptive/meaningful name. Put all final charts (along with the related story) on their own worksheet. You should include any charts on this sheet that you think deliver a fun marketing piece. 
+#### Create a new sheet for each pivot table or analysis work done to create a visualization and give each sheet a descriptive/meaningful name. Put all final charts (along with the related story) on their own worksheet. You should include any charts on this sheet that you think deliver on what has been asked.
