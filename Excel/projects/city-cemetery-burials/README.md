@@ -22,4 +22,4 @@ The city of Nashville provides a dataset of known burials in city cemeteries fro
 7. Do you notice any interesting patterns regarding where (`Section/Lot`) people were buried?
 
 
-#### Create a new sheet for each pivot table or analysis work done to create a visualization and give each sheet a descriptive/meaningful name. Your final product should be marketing material that includes one ore two visualizations that go along with your story. 
+#### Create a new sheet for each pivot table or analysis work done to create a visualization and give each sheet a descriptive/meaningful name. Your final product should be marketing material that includes one or two visualizations that go along with your story. 
