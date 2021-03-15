@@ -1,13 +1,13 @@
 ### Transportation Planning for Nashville: How Many Scooters are Optimal?
- * What is the ideal density of available scooters to:
-    1.  enable scooters to serve our transportation goals
-    2. discourage scooters piling up on sidewalks
-    3. keep it economically viable for companies to operate equitably in the city?
-### Points to consider
+ What is the ideal density of available scooters to:
+1.  Enable scooters to serve our transportation goals
+2. Discourage scooters piling up on sidewalks
+3. Keep it economically viable for companies to operate equitably in the city?
+### Keep in Mind
 * A major planning goal is to reduce the number of people driving alone
 * Three rides (of 3 meters or more) per day per scooter is the baseline for ridership goals
-* The original pilot program limited scooter density to 340 scooters per square mile
-
+* The original pilot program limited scooter density to 340 scooters per square mile  
+* SUMD devices are thought to be of particular use in the [Promise Zone](https://www.nashville.gov/Mayors-Office/Promise-Zone/Basics.aspx) to help mitigate the "last mile" problem that exists in connecting people where they live to public transportation
 
 ### Data
 Six scooter datasets are [available for your analysis](https://drive.google.com/drive/folders/10u81gy8_dWs77c-Kbk8IqjW9Vmgo8PEJ?usp=sharing). The polled location datasets have between 20 and 30 million rows of data each.
@@ -45,8 +45,9 @@ processing and cleaning shall include:
  3. Trip lengths are capped at 24 hours
  ```
 Anecdotally, per metro ITS staff, some of these observations may still be in the data.
-![scooters](images/scooters.jpeg)
-#### Shapefiles for Nashville Promise Zone 
-SUMD devices are thought to be of particular use in the [Promise Zone](https://www.nashville.gov/Mayors-Office/Promise-Zone/Basics.aspx) to help mitigate the "last mile" problem that exists in connecting people where they live to public transportation.
 
-Remember that you need to keep the shapefiles together. Even though you will point to the `.shp` file to create polygons, that file references other files in the `MDHA_Promise_Zones` folder to create the geoDataFrame.
+Shapefiles for **Nashville Promise Zone**  
+Remember that you need to keep the shapefiles together. Even though you will point to the `.shp` file to create polygons, that file references other files in the `MDHA_Promise_Zones` folder to create the geoDataFrame.  
+    
+    
+![scooters](images/scooters.jpeg)
