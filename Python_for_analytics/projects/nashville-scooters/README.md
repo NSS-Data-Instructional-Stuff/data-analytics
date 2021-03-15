@@ -45,7 +45,7 @@ processing and cleaning shall include:
  3. Trip lengths are capped at 24 hours
  ```
 Anecdotally, per metro ITS staff, some of these observations may still be in the data.
-![scooters](/images/scooters.jpeg)
+![scooters](images/scooters.jpeg)
 #### Shapefiles for Nashville Promise Zone 
 SUMD devices are thought to be of particular use in the [Promise Zone](https://www.nashville.gov/Mayors-Office/Promise-Zone/Basics.aspx) to help mitigate the "last mile" problem that exists in connecting people where they live to public transportation.
 
