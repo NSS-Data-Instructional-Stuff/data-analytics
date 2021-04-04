@@ -10,7 +10,7 @@ The following datasets have been provided:
 - **Zip** - the zip code where the person(s) tested reside(s)  
 - **Cases** - the number of postive results for tests conducted on the given date for the given zip code
 
-`COVID_VACC_CountByZipPerDate_04022021.csv` - provided on request by Metro Public Health Department, reports the number of vaccinations given by zip code from 12/12/2020 through 3/26/2021
+`COVID_VACC_CountByZipPerDate_04022021.csv` - provided on request by Metro Public Health Department, reports the number of vaccinations given by zip code from 12/12/2020 through 4/2/2021
 - **Vaccination Date** - the date the vaccine was given  
 - **Zip** - the zip code where the person(s) vaccinated reside(s)  
 - **Dose Count** - whether the vaccine administered was the first or second dose
