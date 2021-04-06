@@ -4,7 +4,7 @@ In this exercise, your objective is to use BeautifulSoup in order to obtain a da
 
 The website splits the members across multiple pages, but start by just working on the first page. Later on in the exercise, you'll take what you've done for the first page and apply it across all pages.
 
-1. Start by using either the inspector or by viewing the page source. Can you identify a tag that might be helpful for finding the name of all inductees? Make use of this to create a list containing just the names of each inductee.
+1. Start by using either the inspector or by viewing the page source. Can you identify a tag that might be helpful for finding the names of all inductees? Make use of this to create a list containing just the names of each inductee.
 
 2. Next, try and find a tag that could be used to find the year that each member was inducted. Extract these into a list. When you do this, be sure to only include the year and not the full text. For example, for Roy Acuff, the list entry should be "1962" and not "Inducted 1962". Double-check that the resulting list has the correct number of elements and is in the same order as your inductees list.
 
