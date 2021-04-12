@@ -10,7 +10,7 @@ The following datasets have been provided:
 - **Zip** - the zip code where the person(s) tested reside(s)  
 - **Cases** - the number of postive results for tests conducted on the given date for the given zip code  
 
-`vaccine_with_protocol.csv` - created for you from two datasets that were provided on request by Metro Public Health Department: a count of vaccines given by date, residence zipcode and dose number for all vaccine manufacturers (`COVID_VACC_CountByZipPerDate_All_04072021.csv`) and another with the count of vaccines given by date, residence zipcode, and dose number for only the two-protocol vaccine manufacturers (`COVID_VACC_CountByZipPerDate_Two_04072021.csv`) The source data for this file have also been included in the repository.  
+`vaccine_with_protocol.csv` - created for you from two datasets that were provided on request by Metro Public Health Department: a count of vaccines given by date, residence zipcode and dose number for all vaccine manufacturers (`COVID_VACC_CountByZipPerDate_All_04072021.csv`) and another with the count of vaccines given by date, residence zipcode, and dose number for **only** the two-protocol vaccine manufacturers (`COVID_VACC_CountByZipPerDate_Two_04072021.csv`) The source data for this file and the notebook with code used to create the `vaccine_with_protocol.csv` file have been included in the repository in a subfolder within the data folder (supplemental).  
 - **vacc_date** - the date that the vaccination was given
 - **zipcode** - the zipcode where the person(s) vaccinated reside(s)
 - **count_given** - the number of vaccines given 
@@ -24,4 +24,5 @@ Other suggested datasets to explore include these from Census Reporter:
 - [2019 Sex by Educational Attainment by Zip Code](https://censusreporter.org/data/table/?table=B15002&geo_ids=860|31000US34980)   
 - [2019 Hispanic or Latino Origin by Race By Zip Code](https://censusreporter.org/data/table/?table=B03002&geo_ids=860|31000US34980#)  
 
-And this scrapable [population by zip code](http://zipatlas.com/us/tn/nashville/zip-code-comparison/population-density.htm).
+And this scrapable [population by zip code](http://zipatlas.com/us/tn/nashville/zip-code-comparison/population-density.htm).  
+
