@@ -23,8 +23,8 @@ Feel free to reference your SQL scripts from before and use them to validate you
 
 From `terminal` or `anaconda prompt` run: 
 ```bash
-conda install psycopg2
-conda install sqlalchemy
+conda install -c conda-forge psycopg2
+conda install -c conda-forge sqlalchemy
 ```
 then launch jupyter notebook
 
@@ -35,7 +35,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 # establish a database connection
-engine = create_engine("postgres+psycopg2://postgres:postgres@localhost:5432/<lahman_baseball_database_name>")
+engine = create_engine("postgresql+psycopg2://postgres:postgres@localhost:5432/<lahman_baseball_database_name>")
 # Replace `<lahman_baseball_database_name>` with the actual name of your lahman baseball database as it appears in pgadmin
 
 # use the connection to run a query using pandas!
@@ -60,15 +60,15 @@ _these are just a subset of questions from the original Lahman Baseball exercise
 4. Which managers have won the TSN Manager of the Year award in both the National League (NL) and the American League (AL)? Give their full name and the teams that they were managing when they won the award.
 
 ### Bonus Questions!
-5. Analyze all the colleges in the state of Tennessee.
-   a. Which college has had the most success in the major leagues?
-   b. Use whatever metric for success you like - number of players, number of games, salaries, world series wins, etc.
+5. Analyze all the colleges in the state of Tennessee.  
+   a. Which college has had the most success in the major leagues?  
+   b. Use whatever metric for success you like - number of players, number of games, salaries, world series wins, etc.  
 
-6. a. Is there any correlation between number of wins and team salary?
-   b. Use data from 2000 and later to answer this question.
-   c. As you do this analysis, keep in mind that salaries across the whole league tend to increase together, so you may want to look on a year-by-year basis.
+6. a. Is there any correlation between number of wins and team salary?  
+   b. Use data from 2000 and later to answer this question.  
+   c. As you do this analysis, keep in mind that salaries across the whole league tend to increase together, so you may want to look on a year-by-year basis.  
 
-7. It is thought that since left-handed pitchers are more rare, causing batters to face them less often, that they are more effective. Investigate this claim and present evidence to either support or dispute this claim.
-   a. First, determine just how rare left-handed pitchers are compared with right-handed pitchers.
-   b. Are left-handed pitchers more likely to win the Cy Young Award?
-   c. Are they more likely to make it into the hall of fame?
+7. It is thought that since left-handed pitchers are more rare, causing batters to face them less often, that they are more effective. Investigate this claim and present evidence to either support or dispute this claim.  
+   a. First, determine just how rare left-handed pitchers are compared with right-handed pitchers.  
+   b. Are left-handed pitchers more likely to win the Cy Young Award?  
+   c. Are they more likely to make it into the hall of fame?  
