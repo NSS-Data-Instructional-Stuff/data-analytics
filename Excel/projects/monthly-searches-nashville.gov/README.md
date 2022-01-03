@@ -3,7 +3,7 @@
 1. Find the dataset of Top 500 Monthly Searches on https://data.nashville.gov and download the CSV for Excel version of the data. Open the file in Excel and examine it.   
     a. Be sure to choose comma delimited when prompted.   
     b. Do not worry about any datatypes for now.   
-    c. **CAUTION: Be sure to save the file as a `.xlsx` file. Otherwise you will lose any functions and other analysis you preform**
+    c. **CAUTION: Be sure to save the file as a `.xlsx` file. Otherwise you will lose any functions and other analysis you perform**
 
 2. How many rows and columns are in the dataset? Enter your answer as text in cell `M2`.
 
@@ -24,7 +24,7 @@
 10. Enter “Average” in cell `P6`. Below it, use `AVERAGEIF()` to find the average number of times that “maps” was searched (in the months that it appeared in our dataset).
 11. Finally, enter “Max” in cell `Q6`, and below it use a formula to find the maximum number of times that “maps” was searched in any month.
 
-12. Create a formula in `G2` to rank the values in the query count column (C) in descending order. Be sure to use an absolute reference for the range of values over which you want to apply the ranking.
+12. In the G column, create a formula that ranks the values in the query count column (D) in descending order. Be sure to use an absolute reference for the range of values over which you want to apply the ranking.
 
 13. To sort the data from newest to oldest, you’ll need to get `Month` as a number. Create a lookup table for Month in columns M and N starting in row 10 with the headers and ending in row 22:  
 
@@ -46,7 +46,7 @@
 
 14. Create a header at the top of column F called “Month Num”. Use a `VLOOKUP` to match the month name in the Month column (A) to the lookup table in `M11`:`N22` in order to populate the “Month Num” in column F.
 
-15. Select columns A through F and create a custom sort (Home --> Sort & Filter --> Custom Sort).
+15. Select columns A through G and create a custom sort (Home --> Sort & Filter --> Custom Sort).
 16. Sort by the largest to smallest Year as your first level, Month Num largest to smallest as your second value, and Query Text A-Z as your third level. Scroll through to find how many times “fairgrounds” was searched in July 2018.
 
 17. Find which month in 2016 had the most searches for “fire”. Try to use a Custom Sort to save yourself from too much scrolling up and down.
