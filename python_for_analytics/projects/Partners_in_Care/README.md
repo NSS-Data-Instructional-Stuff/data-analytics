@@ -16,7 +16,7 @@ In this project, you'll be working with police calls data, with the goal of iden
 
 Explore the calls data to look for any trends in terms of times or locations. Are there any precincts that get more than their share of calls?
 
-In addition to the calls data, you have been provided data from the US Census. Use this data to determine if there are any trends that may be disproportionality responding to populations of high poverty, low education, housing inequities, or race/ethnicity.
+In addition to the calls data, you have been provided data from the US Census. Use this data to determine if there are any trends that may be disproportionality responding to populations of high poverty, low education, housing inequities, or race/ethnicity. You have been provided with several tables worth of data, but if you want to explore other factors, [Census Reporter](https://censusreporter.org/) is an excellent resource for locating census data.
 
 **Dataset Information**
 
