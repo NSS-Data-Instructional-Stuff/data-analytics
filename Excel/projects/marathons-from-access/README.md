@@ -14,7 +14,7 @@
         a. How many runners each year beat Oprah’s time?  
         b. What percentage of runners in each of the 4 marathons beat Oprah’s time?  
 
-4. Quartiles help group data into buckets – the first quarter of data is the first quartile, the second quartile (same as the median) is the first half of the data, and the third quartile represents the first 75 percent. Find the values that define the first, second, and third quartiles for each half-marathon. 
+4. Quartiles help group ordered data into buckets – the first quartile separates the lowest 25 percent of the data from the top 75 percent, the second quartile (same as the median) divides the dataset in half, and the third quartile separates the lowest 75 percent from the top 25 percent. Find the values that define the first, second, and third quartiles for each half-marathon.
 
 5. Is there a year in which runners seem slower or faster? Formulate a hypothesis for any apparent differences.
 
