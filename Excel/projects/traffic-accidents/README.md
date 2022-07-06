@@ -5,7 +5,7 @@ For this exercise, you have been provided a dataset of traffic accidents that oc
 This spreadsheet has been divided into the following sheets:
 * Accidents: Contains the raw data for each accident. For a description of each column, you can see the Metadata, available here: https://data.nashville.gov/api/views/6v6w-hpcw/files/3af9281b-fa4f-4044-83f8-1b9a46cc6e95?download=true&filename=Traffic-Accidents-Metadata-v2.pdf. 
 * Analysis: This sheet will hold most of your answers.
-* Zero Car Crashes: This will be used in question 3
+* Zero Car Crashes: This sheet will be used in question 3.
 * Collision Types: Contains the text description of each collision type. You will fill in your answers for question 5 here.
 * Weather Types, Illumination Types, and Harmful Types: Contain descriptions for the other three codes. Not used in this exercise.
 
