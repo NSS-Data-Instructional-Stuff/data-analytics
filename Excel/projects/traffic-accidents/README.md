@@ -23,12 +23,12 @@ d. What percentage of crashes are single-car?
 4. How many accidents occurred which are hit and run and had at least one injury?
 
 5. a. What is the overall average number of injuries?  
-b. Go to the "Collision Types" sheet and fill in the table to find the total number of crashes, average number of injuries, and total number of injuries per collision type. What do you find?
+b. Go to the "Collision Types" sheet and fill in the table to find the total number of crashes, average number of injuries, and total number of injuries per collision type. For each calculation, write a single formula and copy it down the table. What do you find? (Hint: If you're not sure how to answer this question, revisit the "Conditional functions and lookups" chapter of [Data Analysis in Spreadsheets](https://app.datacamp.com/learn/courses/data-analysis-in-spreadsheets).)
 
 6. a. Add three new columns, Month, Year, and Hour to the right of the Date and Time column. Use the [TEXT function](https://support.microsoft.com/en-us/office/text-function-20d5ac4d-7b94-49fd-bb38-93d29371225c) to extract out the Month, Year, and Hour from the "Date and Time" column.  
 b. Add one more new column, Weekday, and use the WEEKDAY function to extract out the day of the week from the Date and Time column. Use the TEXT function in combination with the WEEKDAY function to display the result as the name of the weekday (eg. Monday).
 
-7. Fill in the Hour table in the Analysis spreadsheet to find the number of accidents that occurred for each hour of the day. Do this by writing a single formula and copying it down the table. Do you see anything unusual? What might be the explanation for this?
+7. Fill in the Hour table in the Analysis spreadsheet to find the number of accidents that occurred for each hour of the day. Again, write a single formula and copy it down the table. Do you see anything unusual? What might be the explanation for this?
 
 8. Do the same for the year and day of the week. What stands out?
 
