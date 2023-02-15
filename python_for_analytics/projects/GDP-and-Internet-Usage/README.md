@@ -22,11 +22,11 @@
 4.	Using the pandas `read_csv()` method, read the GDP dataset into your notebook as a DataFrame called `gdp_df`. Take a look at the first few and last few rows to familiarize yourself with what is contained in this dataset.
 5. How many rows and columns are in `gdp_df`? What are the data types of each column?
 6. Drop the `Value Footnotes` column and rename the remaining three to 'Country', 'Year', and 'GDP_Per_Capita'.
-7. How many countries have data for all years? Which countries are missing many of years of data? Look at the number of observations per year. What do you notice? 
+7. How many countries have data for all years? Which countries are missing many years of data? Look at the number of observations per year. What do you notice? 
 8. Create a plot to show the distribution of GDP per capita for the year 2020. If you're unsure of what type of plot to use, explore the Python Graph Gallery (https://www.python-graph-gallery.com/). What do you notice when you look at this plot?
-9. Create a boxplot to compare the distribution of GDP per capita values for 1990, 2000, 2010, and 2020. Your plot should have Year on the x-axis and GDP_Per_Capita on the y-axis. Comment on what you observe has happened to GDP values over time.
-10. Which country was the first to have a GDP per capita greater than $100,000?
-11. What was the median GDP per capita value in 2020?
+9. What was the median GDP per capita value in 2020?
+10. Create a boxplot to compare the distribution of GDP per capita values for 1990, 2000, 2010, and 2020. Your plot should have Year on the x-axis and GDP_Per_Capita on the y-axis. Comment on what you observe has happened to GDP values over time.
+11. Which country was the first to have a GDP per capita greater than $100,000?
 12. Which country had the highest GDP per capita in 2020? Create a plot showing how this country's GDP per capita has changed over the timespan of the dataset.
 13. Which country had the lowest GDP per capita in 2020? Create a plot showing how this country's GDP per capita has changed over the timespan of the dataset. **Bonus question:** Is it true in general that coutries had a higher GDP per capita in 2020 than in 1990? Which countries had lower GDP per capita in 2020 than in 1990?
 14. Read in the internet use dataset into a DataFrame named `internet_df`. You will likely get errors when doing this. Check the arguments for the read_csv function to find ones that can help correct the errors (https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html) Once you are able to read it in, take per a look at the top and bottom few rows to make sure that it has been read in correctly. Also, check the datatypes of the columns.
