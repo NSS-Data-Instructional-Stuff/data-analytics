@@ -1,8 +1,5 @@
-#### A guided exploration of UN data (Gross Domestic Product and Internet Usage)
-
-
+## A Guided Exploration of UN Data (Gross Domestic Product and Internet Usage)
 1. Create a `data` folder in your local project repository.  
-
 2. Download these two CSV files and place them in the data folder:
 
     a.	Gross Domestic Product (GDP) per capita http://data.un.org/Data.aspx?d=WDI&f=Indicator_Code%3aNY.GDP.PCAP.PP.KD **DO NOT APPLY ANY FILTERS**
@@ -13,48 +10,37 @@
      - rename the file to `internet_use.csv`
      - open it with a text editor (**not excel**) and take a look
 
-2.	Launch a Jupyter Notebook. 
- - _*IMPORTANT:  You are likely to get errors along the way. When you do, read the errors to try to understand what is happening and how to correct it.*_
+2.	Create a `notebooks` folder and launch a Jupyter Notebook in this folder. Give it a meaningful name.  
+ - **IMPORTANT:**  You are likely to get errors along the way. When you do, read the errors to try to understand what is happening and how to correct it.
   - Use markdown cells to record your answers to any questions asked in this exercise. On the menu bar, you can toggle the cell type from `Code` to `Markdown`.
-
 3.	Import the required packages with their customary aliases as follows:
 
     `import pandas as pd`   
     `import numpy as np`  
     `import matplotlib.pyplot as plt`  
     `import seaborn as sns`
-
-4.	Using the pandas `read_csv()` method, read the GDP dataset into your notebook as a DataFrame called `gdp_df`. Take a look at the first few and last few rows to familiarize yourself with what is contained in it.
-5. How many rows and columns are in gdp_df? What are the data types of each column?
-6. Now read in the internet use dataset into a DataFrame named `internet_df`. You will likely get errors when doing this. Check the arguments for the read_csv function to fine ones that can help overcome the issues with this dataframe (https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html) Once you are able to read it in, take a look at the top and bottom few rows to make sure that it has read in correctly. Also, check the datatypes of the columns.
-7.	Drop the `Value Footnotes` column from both DataFrames. Check that this worked as expected.
-8.	Change the columns for the GDP Per Capita DataFrame to 'Country', 'Year', and 'GDP_Per_Capita'.
-9.	Change the columns for the Internet Users DataFrame to 'Country', 'Year', and 'Internet_Users_Pct'.
-10.	Merge the two DataFrames to one. Merge **all rows** from each of the two DataFrames. Call the new DataFrame `gdp_and_internet_use`.
-11.	Look at the first five rows of your new DataFrame to confirm it merged correctly.
-12.	Look at the last five rows to make sure the data is clean and as expected.
-13.	Subset the combined DataFrame to keep only the data for 2004, 2009, and 2014. Check that this happened correctly.
-14.	Create three new DataFrames, one for 2004, one for 2009, and one for 2014. Give them meaningful names that aren't too long.
-15.	Which country had the highest percentage of internet users in 2014? What was the percentage? (Try typing the first 3 letters of your DataFrame name and hitting the tab key for auto-complete options).
-16.	Which country had the lowest percentage of internet users in 2014? What was the percentage?
-17.	Repeat for 2004 and 2009.
-18.	Which country had the highest gdp per capita in 2014? What was the gdp per capita?
-20.	Which country had the lowest gdp per capita in 2014? What was the gdp per capita?
-21.	Create some scatterplots:  
-    a.  2004 Percent Using the Internet vs GDP Per Capita  
-    b.	2009 Percent Using the Internet vs GDP Per Capita  
-    c.	2014 Percent Using the Internet vs GDP Per Capita  
-22.	Are there differences across years? What do the plots tell you about any relationship between these two variables? Enter your observations as a markdown cell.
-23.	Look at the distribution of gdp per capita values for 2014. Is it unimodal?
-24.	Look at the distribution of Internet Use for 2014. Is it unimodal?
-25.	What are the top 5 countries in terms of internet use in 2014?
-26.	Create a DataFrame called top_5_internet **from the combined DataFrame that has all three years _for the 5 countries that had the greatest 2014 internet usage_**. You should have 15 rows. Check that this is true.
-27.	Create a seaborn FacetGrid to show the internet usage trend across the years 2004, 2009, and 2014 for these 5 countries (those with the highest reported internet use in 2014). Which country had the greatest growth between 2004 and 2014?
-28.	Repeat the steps above to look at the trend for the 5 countries with the lowest 2014 internet usage. Which country has consistently had the least internet use?
-29.	Find the top 5 countries for 2014 in terms of GDP per capita; create a DataFrame to look at 10-year trends (use 2004, 2009, 2014 to look at the 10-year trend) in gdp per capita for the 5 countries with the highest 2014 GDP per capita. Use a seaborn facet grid for this.
-96. Repeat this one more time to look at 10-year trend for the 5 countries for 2014 with the lowest GDP per capita.
-30.	Is there anything surprising or unusual in any of these plots? Searching on the internet, can you find any possible explanations for unusual findings?
-
+4.	Using the pandas `read_csv()` method, read the GDP dataset into your notebook as a DataFrame called `gdp_df`. Take a look at the first few and last few rows to familiarize yourself with what is contained in this dataset.
+5. How many rows and columns are in `gdp_df`? What are the data types of each column?
+6. Drop the `Value Footnotes` column and rename the remaining three to 'Country', 'Year', and 'GDP_Per_Capita'.
+7. How many countries have data for all years? Which countries are missing many of years of data? Look at the number of observations per year. What do you notice? 
+8. Create a plot to show the distribution of GDP per capita for the year 2020. If you're unsure of what type of plot to use, explore the Python Graph Gallery (https://www.python-graph-gallery.com/). What do you notice when you look at this plot?
+9. Create a boxplot to compare the distribution of GDP per capita values for 1990, 2000, 2010, and 2020. Your plot should have Year on the x-axis and GDP_Per_Capita on the y-axis. Comment on what you observe has happened to GDP values over time.
+10. Which country was the first to have a GDP per capita greater than $100,000?
+11. What was the median GDP per capita value in 2020?
+12. Which country had the highest GDP per capita in 2020? Create a plot showing how this country's GDP per capita has changed over the timespan of the dataset.
+13. Which country had the lowest GDP per capita in 2020? Create a plot showing how this country's GDP per capita has changed over the timespan of the dataset. **Bonus question:** Is it true in general that coutries had a higher GDP per capita in 2020 than in 1990? Which countries had lower GDP per capita in 2020 than in 1990?
+14. Read in the internet use dataset into a DataFrame named `internet_df`. You will likely get errors when doing this. Check the arguments for the read_csv function to find ones that can help correct the errors (https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html) Once you are able to read it in, take per a look at the top and bottom few rows to make sure that it has been read in correctly. Also, check the datatypes of the columns.
+15. Drop the `Value Footnotes` column and rename the remaining three to 'Country', 'Year', and 'Internet_Users_Pct'.
+16. Look at the number of observations in this dataset per year. What do you notice?
+17. What is the first year to have a non-zero internet users percentage value?
+18. How does the distribution of internet users percent differ for 2000 and 2014?
+19. For how many countries was the percentage of internet users below 5% in 2014?
+20. Merge the two DataFrames to one. Do this in a way that keeps **all rows** from each of the two DataFrames. Call the new DataFrame `gdp_and_internet_use`. Look at the first and last few rows to confirm that it merged correctly.
+21. Find the three countries with the highest internet users percentage in 2014. Use a seaborn FacetGrid (https://seaborn.pydata.org/generated/seaborn.FacetGrid.html) to compare how the GDP per capita has changed over time for these three countries. What do you notice?
+22. Subset `gdp_and_internet_use` to just the year 2014. Save this as a new dataframe named `gdp_and_internet_use_2014`.
+23. Create a plot which compares Internet Users Percentage and GDP per Capita for the year 2014. What do you notice from this plot? If you see any unusual points, investigate them.
+24. Use the `qcut` function from pandas (https://pandas.pydata.org/docs/reference/api/pandas.qcut.html) to divide countries in `gdp_per_capita_2014` into three groups based on their GDP per capita values. Label these groups as "Low", "Medium", and "High". Put these labels in a new column, named "GDP_group".
+25. How does the median internet users percentage compare for the three gdp groups?
 
 ### Bonus exercise:
 1.    Download another data set from the UN data (http://data.un.org/Explorer.aspx) to merge with your data and explore.
