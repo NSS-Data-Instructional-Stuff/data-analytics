@@ -24,15 +24,12 @@
     `import matplotlib.pyplot as plt`  
     `import seaborn as sns`
 
-4.	Use the `%matplotlib inline` magic command so that your plots show in the notebook _without_ having to call `plt.show()` every time.
-5.	Using the pandas `read_csv()` method, read the GDP dataset into your notebook as a DataFrame called `gdp_df`. Take a look at the first 6 rows.
-6. Repeat for the internet use dataset. Call this DataFrame `internet_df`. Take a look at the first six rows.
-98. Look at the shape of each DataFrame - how many rows? How many columns?
-6.	Take a look at the datatypes for the columns in each DataFrame.
-99. Take a look at the last 10 rows of each DataFrame in turn.
-7.	Drop the `value footnotes` column from both DataFrames. Check that this worked as expected.
-8.	Change the columns for the GDP Per Capita DataFrame to ‘Country’, ‘Year’, and ‘GDP_Per_Capita’.
-9.	Change the columns for the Internet Users DataFrame to ‘Country’, ‘Year’, and ‘Internet_Users_Pct’.
+4.	Using the pandas `read_csv()` method, read the GDP dataset into your notebook as a DataFrame called `gdp_df`. Take a look at the first few and last few rows to familiarize yourself with what is contained in it.
+5. How many rows and columns are in gdp_df? What are the data types of each column?
+6. Now read in the internet use dataset into a DataFrame named `internet_df`. You will likely get errors when doing this. Check the arguments for the read_csv function to fine ones that can help overcome the issues with this dataframe (https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html) Once you are able to read it in, take a look at the top and bottom few rows to make sure that it has read in correctly. Also, check the datatypes of the columns.
+7.	Drop the `Value Footnotes` column from both DataFrames. Check that this worked as expected.
+8.	Change the columns for the GDP Per Capita DataFrame to 'Country', 'Year', and 'GDP_Per_Capita'.
+9.	Change the columns for the Internet Users DataFrame to 'Country', 'Year', and 'Internet_Users_Pct'.
 10.	Merge the two DataFrames to one. Merge **all rows** from each of the two DataFrames. Call the new DataFrame `gdp_and_internet_use`.
 11.	Look at the first five rows of your new DataFrame to confirm it merged correctly.
 12.	Look at the last five rows to make sure the data is clean and as expected.
