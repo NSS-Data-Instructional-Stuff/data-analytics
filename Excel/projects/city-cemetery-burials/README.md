@@ -14,13 +14,13 @@ After working through these questions, you will shift gears to create marketing 
 
 1. Use a pivot table to find the 10 most common (known) recorded causes of death, and evaluate the counts of each type. Once you have your metrics, plot these in a **bar chart**. In the analysis of the top 10 causes of death, you may see spelling mistakes that are affecting your counts. For example, you can assume Cholera and Cholrea are the same cause of death. Create a new column in the original dataset to update spelling errors to make your count of the top 10 causes more accurate. You will need to **update and refresh your pivot table** to see changes applied. (For the new column you create, copy the column with `Cause of Death/Burial` and correct spelling errors only for causes that appear in your top 10 list).
 
-2. Create a line chart showing the number of burials per year. How would you describe the overall trend in number of deaths per year? In what years were there the most burials? Can you think of any plausible reason why?
+2. Create a line chart showing the number of burials per year. How would you describe the overall trend in number of burials per year? In what years were there the most burials? Can you think of any plausible reason why?
 
-3. Create a pivot table that shows the number of deaths per year per month. Your rows should be years and columns should be months.   
-a. Apply conditional formatting to change the background color based on the number of deaths. You can read about using conditional formatting here: https://support.microsoft.com/en-us/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f  
+3. Create a pivot table that shows the number of burialss per year per month. Your rows should be years and columns should be months.   
+a. Apply conditional formatting to change the background color based on the number of burials. You can read about using conditional formatting here: https://support.microsoft.com/en-us/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f  
 b. Drill down into any months that stand out to investigate. What do you find?
 
-4. Create a "Decade" column based off of the Burial Year column. Use a pivot table to examine deaths for each decade. Look at the total number of deaths and the proportion (aka percentage) of male deaths and female deaths. Create a clustered bar chart to show how male and female deaths have changed over time. If you could use a refresher on percentages and proportions, here are some resources:  
+4. Create a "Decade" column based off of the Burial Year column. Use a pivot table to examine burials for each decade. Look at the total number of burials and the proportion (aka percentage) of male burials and female burials. Create a clustered bar chart to show how male and female burials have changed over time. If you could use a refresher on percentages and proportions, here are some resources:  
 * https://www.wikihow.com/Calculate-Percentages
 * https://www.wikihow.com/Solve-Proportions
 
