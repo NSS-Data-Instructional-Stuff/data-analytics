@@ -20,7 +20,9 @@ After working through these questions, you will shift gears to create marketing 
 a. Apply conditional formatting to change the background color based on the number of deaths. You can read about using conditional formatting here: https://support.microsoft.com/en-us/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f  
 b. Drill down into any months that stand out to investigate. What do you find?
 
-4. Create a "Decade" column based off of the Burial Year column. Use a pivot table to examine deaths for each decade. Look at the total number of deaths and the proportion of male deaths to female deaths. Create a clustered bar chart to show how male and female deaths have changed over time.
+4. Create a "Decade" column based off of the Burial Year column. Use a pivot table to examine deaths for each decade. Look at the total number of deaths and the proportion (aka percentage) of male deaths and female deaths. Create a clustered bar chart to show how male and female deaths have changed over time. If you could use a refresher on percentages and proportions, here are some resources:  
+* https://www.wikihow.com/Calculate-Percentages
+* https://www.wikihow.com/Solve-Proportions
 
 5. Next look at how age at the time of death has changed over time. Add a column to the original dataset to classify each row to one of the following categories (0-18, 19-25, 26-40, 41-64, and 65+). Do this by creating a lookup table with VLOOKUP. Be sure to think about a strategy to deal with missing values. Also, create a "Year Group" dividing the records up based on burial year using a table and a VLOOKUP. Use the following groups: Before 1880, 1880-1900, 1901-1920, After 1920. Use a grouped bar chart to show how the proportion of burials per age group has changed over time. How would you describe the trends in terms of proportion of burials per age group over time?
 
