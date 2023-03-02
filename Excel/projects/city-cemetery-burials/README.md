@@ -16,7 +16,7 @@ After working through these questions, you will shift gears to create marketing 
 
 2. Create a line chart showing the number of burials per year. How would you describe the overall trend in number of burials per year? In what years were there the most burials? Can you think of any plausible reason why?
 
-3. Create a pivot table that shows the number of burialss per year per month. Your rows should be years and columns should be months.   
+3. Create a pivot table that shows the number of burials per year per month. Your rows should be years and columns should be months.   
 a. Apply conditional formatting to change the background color based on the number of burials. You can read about using conditional formatting here: https://support.microsoft.com/en-us/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f  
 b. Drill down into any months that stand out to investigate. What do you find?
 
