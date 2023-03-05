@@ -2,7 +2,11 @@
 
 In this exercise, you'll practice using BeautifulSoup to parse the content of a web page. The page that you'll be scraping, https://realpython.github.io/fake-jobs/, contains job listings. Your job is to extract the data on each job and convert into a pandas DataFrame.
 
-1. Start by extracting the job titles, companies, locations, and posting dates for each job. For example, the first job has a title of "Senior Python Developer", a company of "Payne, Roberts and Davis", a location of "Stewartbury, AA", and a posting date of "2021-04-08". Take these and create a pandas DataFrame which contains these four columns. Hint: can you find a tag type and/or a class that could be helpful for extracting this information? Ensure that the text that you extract is clean, meaning no extra spaces or other characters at the beginning or end.
+1. Start by performing a GET request on the url above and convert the response into a BeautifulSoup object.  
+a. Use the .find method to find the tag containing the first job title ("Senior Python Developer"). Hint: can you find a tag type and/or a class that could be helpful for extracting this information? Extract the text from this title.  
+b. Now, use what you did for the first title, but extract the job title for all jobs on this page. Store the results in a list.  
+c. Finally, extract the companies, locations, and posting dates for each job. For example, the first job has a company of "Payne, Roberts and Davis", a location of "Stewartbury, AA", and a posting date of "2021-04-08". Ensure that the text that you extract is clean, meaning no extra spaces or other characters at the beginning or end.  
+d. Take the lists that you have created and combine them into a pandas DataFrame. 
 
 2. Next, add a column that contains the url for the "Apply" button. Try this in two ways.   
     a. First, use the BeautifulSoup find_all method to extract the urls.  
