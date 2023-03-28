@@ -9,10 +9,19 @@ keeping it economically viable for companies to operate equitably in the city.
 This data for this project can be downloaded as a Postgres backup from https://drive.google.com/file/d/1BXAfByFvHCwX0G1BvTCQ373qKm7wE4Y-/view?usp=share_link.
 
 Some notes about the data:
-When not in use, each scooter will report its location every five minutes. This data is contained in the scooters table.
-Both tables contain a large number of records, so think carefully about what data you need to pull in a given query.
+* When not in use, each scooter will report its location every five minutes. This data is contained in the scooters table.
+* WARNING: Both tables contain a large number of records, so think carefully about what data you need to pull in a given query. If you try and pull in all rows from the scooters table, there is a very good chance that you will crash your notebook!
 
-Start with addressing these questions:
+As you know, it's important to gain an understanding of new datasets before diving headlong into analysis. Here are some suggestions for guiding the process of getting to know the data contained in these tables:
+- Are there any null values in any columns in either table?
+- What date range is represented in each of the date columns? Investigate any values that seem odd.
+- Is time represented with am/pm or using 24 hour values in each of the columns that include time?
+- What values are there in the sumdgroup column? Are there any that are not of interest for this project?
+- What are the minimum and maximum values for all the latitude and longitude columns? Do these ranges make sense, or is there anything surprising?
+-What is the range of values for trip duration and trip distance? Do these values make sense? Explore values that might seem questionable.
+- Check out how the values for the company name column in the scooters table compare to those of the trips table. What do you notice?
+
+Once you've gotten an understanding of what is contained in the available tables, start with addressing these questions:
 1. During this period, seven companies offered scooters. How many scooters did each company have in this time frame? Did the number for each company change over time? Did scooter usage vary by company?
 2. According to Second Substitute Bill BL2018-1202 (as amended) (https://web.archive.org/web/20181019234657/https://www.nashville.gov/Metro-Clerk/Legislative/Ordinances/Details/7d2cf076-b12c-4645-a118-b530577c5ee8/2015-2019/BL2018-1202.aspx), all permitted operators will first clean data before providing or reporting data to Metro. Data processing and cleaning shall include:  
 * Removal of staff servicing and test trips  
