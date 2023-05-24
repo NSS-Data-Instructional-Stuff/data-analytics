@@ -10,7 +10,7 @@ Directions:
 3. Use VLOOKUP to fill in the first table at the bottom to retrieve the difference for the selected departments for each year. You may need to modify your VLOOKUP to bring in values from the correct column.  Your formula should be able to pull down, but not necessarily across.
 4. Repeat this in the next table, but this time use XLOOKUP. Your formula should be able to pull down, but not necessarily across. 
 5. Repeat one more time, but use INDEX and MATCH to fill in the third table. Your formula should be able to pull down, but not necessarily across.
-6. Use Data Validation in cell B87 in order to create a dropdown where a department can be chosen. Then use INDEX and MATCH in order to fill in the table to retrieve the Budget and Actual for each financial year. Then take this table and create a bar chart to display the results. You can read about using data validation to create a drop-down list here: https://support.microsoft.com/en-us/office/create-a-drop-down-list-7693307a-59ef-400a-b769-c5402dce407b
+6. Use Data Validation in cell B82 in order to create a dropdown where a department can be chosen. Then use INDEX and MATCH in order to fill in the table to retrieve the Budget and Actual for each financial year. Then take this table and create a bar chart to display the results. You can read about using data validation to create a drop-down list here: https://support.microsoft.com/en-us/office/create-a-drop-down-list-7693307a-59ef-400a-b769-c5402dce407b
 
 Challenge Questions (Save for last):  
 
