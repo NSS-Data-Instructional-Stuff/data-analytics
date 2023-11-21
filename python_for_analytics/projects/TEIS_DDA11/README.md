@@ -34,4 +34,5 @@ Project Objectives:
 
 Stretch Goal:
 * Investigate the records that are missing ID values. Have they gotten better or worse over time? Are there repeat offenders?
+* As noted above, this evaluation may be repeated every 4 months. How often did it occur that a child was assessed multiple times in a time period of less than 120 days. Has this gotten better or worse over time?
 
