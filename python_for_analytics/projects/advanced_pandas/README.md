@@ -8,7 +8,8 @@ As a reminder, you can get more information about the data that you were working
 
 2. **Most Common Causes of Death.**  
    a. Find the 10 most common (known) recorded causes of death.  
-   b. Clean up some of the misspellings. Use the [`replace` method](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.replace.html) to clean up some of the causes of death. For example, replace "Cholrea" with "Cholera" and "Still Born" with "Stillborn". **Bonus (Save For Last):** One method of detecting and correcting misspellings is fuzzy matching using metrics like [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance). Check out [thefuzz](https://github.com/seatgeek/thefuzz) a library that implements fuzzy matching and apply it to detect and correct misspellings.  
+   b. Clean up some of the misspellings. Use the [`replace` method](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.replace.html) to clean up some of the causes of death. For example, replace "Cholrea" with "Cholera" and "Still Born" with "Stillborn".   
+   **Bonus (Save For Last):** One method of detecting and correcting misspellings is fuzzy matching using metrics like [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance). Check out [thefuzz](https://github.com/seatgeek/thefuzz) a library that implements fuzzy matching and apply it to detect and correct misspellings.  
    c. After correcting the spellings, find the 10 most common causes of death and create a bar chart to display your findings.  
 
 3. Create a line chart showing the number of burials per year.
@@ -17,13 +18,15 @@ As a reminder, you can get more information about the data that you were working
     a. Use the [crosstab function](https://pandas.pydata.org/docs/reference/api/pandas.crosstab.html) to build a summary table showing the number of burials per year per month. You should have one row per year and one column for month.  
     b. After creating this summary table, make sure that the year labels are integers (no decimal part) and that the columns are sorted correctly.  
     c. Filter your table to show only the years 1846 through 1860.  
-    d. Display your table so that highlighs any months that had over 100 burials. **Hint:** look at styling in pandas: https://pandas.pydata.org/pandas-docs/version/1.0/user_guide/style.html  
-    e. Go back to your original DataFrame and filter to the year and month that had the largest number of burials. What are the most common causes of death for that month?
+    **Bonus** Display your table so that highlights any months that had over 100 burials. Hint: Look at styling in pandas: https://pandas.pydata.org/pandas-docs/version/1.0/user_guide/style.html  
+    d. Go back to your original DataFrame and filter to the year and month that had the largest number of burials. What are the most common causes of death for that month?
 
 5. **Burials per Decade**  
     a. Create a "Decade" column to show the decade in which a burial occurred.    
     b. Examine the burials per decade. Look at the total number of burials and the proportion (aka percentage) of male burials and female burials.  
     c. Create a clustered bar chart to show how male and female burials have changed over time.
+
+### Bonus Questions
 
 6. **Burials per Age Group**  
     a. Add a column to the original dataset to classify each row to one of the following categories (0-18, 19-25, 26-40, 41-64, and 65+). (Hint: One way to do this is using the [`cut` function](https://pandas.pydata.org/docs/reference/api/pandas.cut.html)).  
