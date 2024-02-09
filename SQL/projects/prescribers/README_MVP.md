@@ -1,3 +1,7 @@
+## Prescribers Database
+
+For this exericse, you'll be working with a database derived from the [Medicare Part D Prescriber Public Use File](https://www.hhs.gov/guidance/document/medicare-provider-utilization-and-payment-data-part-d-prescriber-0). More information about the data is contained in the Methodology PDF file. See also the included entity-relationship diagram.
+
 1. 
     a. Which prescriber had the highest total number of claims (totaled over all drugs)? Report the npi and the total number of claims.
     
