@@ -30,7 +30,7 @@ Once you've gotten an understanding of what is contained in the available tables
 Are the scooter companies in compliance with the second and third part of this rule? 
 3. The goal of Metro Nashville is to have each scooter used a minimum of 3 times per day. Based on the data, what is the average number of trips per scooter per day? Make sure to consider the days that a scooter was available. How does this vary by company?
 4. What is the highest count of scooters being used at the same time? When did it occur? Does this vary by zip code or other geographic region?
-4. SUMDs can provide alternative transportation and provide "last mile" access to public transit. How often are trips starting near public transit hubs? You can download a dataset of bus stop locations from https://data.nashville.gov/Transportation/Regional-Transportation-Authority-Bus-Stops/p886-fnbd.
+4. SUMDs can provide alternative transportation and provide "last mile" access to public transit. How often are trips starting near public transit hubs? You can download a dataset of bus stop locations from https://data.nashville.gov/Transportation/WeGo-Transit-Bus-Stops/vfe9-k7vc/about_data.
 
 Deliverables:
 At the conclusion of this project, your group should deliver a presentation which addresses the following points:
