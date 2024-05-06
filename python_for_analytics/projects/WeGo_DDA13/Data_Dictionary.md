@@ -33,4 +33,5 @@ STOP_CANCELLED:	flags whether a crossing was canceled or waived
 PREV_SCHED_STOP_CANCELLED: flags whether the previous timepoint crossing was cancelled or waived. Useful for excluding records where the headway values are extremely high because the bus is just coming off a detour  
 IS_RELIEF: flags whether a particular crossing is a relief - i.e. the first timepoint crossing of a new driver on the bus/block	  
 BLOCK_STOP_ORDER:   
-DWELL_IN_MINS: Actual Departure Time - Actual Arrival Time (in minutes)  
+DWELL_IN_MINS: Actual Departure Time - Actual Arrival Time (in minutes) 
+SCHEDULED_LAYOVER_MINUTES: Applies only for TRIP_EDGE 1 (the beginning of a trip). Tells how much time between the scheduled time at the end of the previous trip and the current trip. 
