@@ -1,7 +1,7 @@
 # WeGo Public Transit
 [WeGo Public Transit](https://www.wegotransit.com/) is a public transit system serving the Greater Nashville and Davidson County area. WeGo provides local and regional bus routes, the WeGo Star train service connecting Lebanon to downtown Nashville, along with several other transit services.
 
-The data for this project can be downloaded from [here](https://docs.google.com/spreadsheets/d/1ChPKdwEKmIz_VUwKIq-qbIVRYkGhxTXy/edit?usp=sharing&ouid=102586165284403190694&rtpof=true&sd=true).
+The data for this project can be downloaded from [here](https://drive.google.com/file/d/1iM4WjC9k3EXHPNc6q4AwDh_MEIpXvfMD/view?usp=sharing).
 
 In this project, you'll be analyzing the bus spacing to look for patterns and try to identify correlations to controllable or external factors. Specifically, you'll be using a dataset containing information on the headway, or amount of time between vehicle arrivals at a stop. 
 
@@ -19,6 +19,8 @@ Goals of this project:
 3. How does time of day or day of week affect headway and on-time performance?
 4. How much of a factor does the driver have on headway and on-time performance? The driver is indicated by the OPERATOR variable.
 5. Is there any relationship between lateness (ADHERENCE) and headway deviation?
+
+**Stretch Goals:**
 6. How much impact does being late or too spaced out at the first stop have downstream?
 7. What is the impact of the layover at the start of the trip (the difference between the first stop arrival and departure time)? Does more dwell time at the beginning of a trip lead to more stable headways (lower values for % headway deviation)? Do trips with longer **scheduled** layover time have more stable headway values?
 8. What is the relationship between distance or time traveled since the start of a given trip and the headway deviation? Does headway become less stable the further along the route the bus has traveled?
