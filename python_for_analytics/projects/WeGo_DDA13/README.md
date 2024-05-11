@@ -20,7 +20,8 @@ Goals of this project:
 4. How much of a factor does the driver have on headway and on-time performance? The driver is indicated by the OPERATOR variable.
 5. Is there any relationship between lateness (ADHERENCE) and headway deviation?
 
-**Stretch Goals:**
-6. How much impact does being late or too spaced out at the first stop have downstream?
-7. What is the impact of the layover at the start of the trip (the difference between the first stop arrival and departure time)? Does more dwell time at the beginning of a trip lead to more stable headways (lower values for % headway deviation)? Do trips with longer **scheduled** layover time have more stable headway values?
+**Stretch Goals:**  
+
+6. How much impact does being late or too spaced out at the first stop have downstream?  
+7. What is the impact of the layover at the start of the trip (the difference between the first stop arrival and departure time)? Does more dwell time at the beginning of a trip lead to more stable headways (lower values for % headway deviation)? Do trips with longer **scheduled** layover time have more stable headway values?  
 8. What is the relationship between distance or time traveled since the start of a given trip and the headway deviation? Does headway become less stable the further along the route the bus has traveled?
