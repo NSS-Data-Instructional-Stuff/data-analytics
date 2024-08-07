@@ -1,18 +1,23 @@
 ## A Guided Exploration of UN Data (Gross Domestic Product and Internet Usage)
+
+Hint: Go to the documentation https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html look at the nrows argument.
+
 1. Create a `data` folder in your local project repository.  
 2. Download these two CSV files and place them in the data folder:
 
     a.	Gross Domestic Product (GDP) per capita http://data.un.org/Data.aspx?d=WDI&f=Indicator_Code%3aNY.GDP.PCAP.PP.KD **DO NOT APPLY ANY FILTERS**
      - rename the file to `gdp_percapita.csv`
-     - open it with a text editor (**not excel**) and take a look
+     - open it with a text editor (**not excel**) and take a look at the top and bottom, do you notice anything?
 
     b.	Percentage of Individuals using the Internet http://data.un.org/Data.aspx?d=ITU&f=ind1Code%3aI99H  **DO NOT APPLY ANY FILTERS**
      - rename the file to `internet_use.csv`
-     - open it with a text editor (**not excel**) and take a look
+     - open it with a text editor (**not excel**) and take a look at the top and bottom, do you notice anything?
 
 2.	Create a `notebooks` folder and launch a Jupyter Notebook in this folder. Give it a meaningful name.  
  - **IMPORTANT:**  You are likely to get errors along the way. When you do, read the errors to try to understand what is happening and how to correct it.
+
   - Use markdown cells to record your answers to any questions asked in this exercise. On the menu bar, you can toggle the cell type from `Code` to `Markdown`.
+
 3.	Import the required packages with their customary aliases as follows:
 
     `import pandas as pd`   
@@ -22,7 +27,7 @@
 4.	Using the pandas `read_csv()` method, read the GDP dataset into your notebook as a DataFrame called `gdp_df`. Take a look at the first few and last few rows to familiarize yourself with what is contained in this dataset.
 5. How many rows and columns are in `gdp_df`? What are the data types of each column?
 6. Drop the `Value Footnotes` column and rename the remaining three to 'Country', 'Year', and 'GDP_Per_Capita'.
-7. How many countries have data for all years? Which countries are missing many years of data? Look at the number of observations per year. What do you notice? 
+7. How many countries have data for all years? Which countries are missing many years of data? Look at the number of observations per year. What do you notice?
 8. In this question, you're going to create some plots to show the distribution of GDP per capita for the year 2020. Go to the Python Graph Gallery (https://www.python-graph-gallery.com/) and look at the different types of plots under the Distribution section. Create a histogram, a density plot, a boxplot, and a violin plot. What do you notice when you look at these plots? How do the plots compare and what information can you get out of one type that you can't necessarily get out of the others?
 9. What was the median GDP per capita value in 2020?
 10. For this question, you're going to create some visualizations to compare GDP per capita values for the years 1990, 2000, 2010, and 2020. Start by subsetting your data to just these 4 years into a new DataFrame named gdp_decades. Using this, create the following 4 plots:
