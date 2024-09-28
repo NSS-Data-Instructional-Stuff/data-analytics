@@ -32,4 +32,4 @@ Before beginning to answer questions, take some time to review the data dictiona
 You want to understand which jobs requiring SQL are hard to fill. Find the number of jobs by industry (domain) that require SQL and have been posted longer than 3 weeks. 
  - Disregard any postings where the domain is NULL. 
  - Order your results so that the domain with the greatest number of `hard to fill` jobs is at the top. 
-  - Which three industries are in the top 4 on this list? How many jobs have been listed for more than 3 weeks for each of the top 4?
+  - Which three industries are in the top 3 on this list? How many jobs have been listed for more than 3 weeks for each of the top 3?
